@@ -50,6 +50,8 @@ A complete reference for android developers. Here you can find references about 
 - [Vogella Tutorials ](http://www.vogella.com/tutorials/android.html) - Very good tutorials by Lars Vogel.
 - [Android Kotlin Libraries](https://github.com/mcxiaoke/awesome-kotlin) - A reference for 3rd party Kotlin libraries.
 
+### TODO
+- More references to be added
 
 ### Contact
 - [Facebook](https://www.facebook.com/amit.shekhar.iitbhu)
