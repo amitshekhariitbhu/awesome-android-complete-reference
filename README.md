@@ -43,6 +43,9 @@ A complete reference for android developers. Here you can find references about 
 - [APK size reduction](https://medium.com/google-developers/smallerapk-part-1-anatomy-of-an-apk-da83c25e7003#.g5f6dfng9) - Guide for apk size reduction.
 - [Android Instant Run](https://medium.com/google-developers/instant-run-how-does-it-work-294a1633367f#.5q59i049s) - Instant Run: How Does it Work?.
 - [Android New ConstraintLayout](https://medium.com/exploring-android/exploring-the-new-android-constraintlayout-eed37fe8d8f1#.g25l4abme) - Exploring the new Android ConstraintLayout.
+- [Square Libraries](http://square.github.io/#android) - Android Libraries by Square.
+- [DevAppsDirect - Demo Market](https://play.google.com/store/apps/details?id=com.inappsquared.devappsdirect) - App that demonstrates different libraries.
+- [Awesome Android @LibHunt](https://android.libhunt.com/) - Your go-to Android Toolbox.
 - [Android Kotlin Libraries](https://github.com/mcxiaoke/awesome-kotlin) - A reference for 3rd party Kotlin libraries.
 
 
