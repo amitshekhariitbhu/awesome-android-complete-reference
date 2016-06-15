@@ -17,6 +17,9 @@ A complete reference for android developers. Here you can find references about 
 - [Android Best Practices](https://github.com/futurice/android-best-practices) - Android Best Practices.
 - [Google I/O Android App](https://github.com/google/iosched) - Google I/O Sources Code ,Best Coding Guidelines for Android Developers.
 - [Android Proguard Snippets](https://github.com/krschultz/android-proguard-snippets) - Android Proguard Rules for Common 3rd Party Libraries.
+- [Android Architecture](https://github.com/googlesamples/android-architecture) - Android Architecture Blueprints.
+- [Android Open Project](https://github.com/Trinea/android-open-project) - Android Open Source Project subtotals
+.
 - [Must Have Libraries](http://guides.codepath.com/android/Must-Have-Libraries#networking) - Guides for Must Have Libraries.
 - [CodePath Android](http://guides.codepath.com/android) - The Complete tutorial for Android Developement with examples.
 - [Android Libs](https://android-libs.com/) - Another reference for 3rd party libraries.
@@ -43,6 +46,7 @@ A complete reference for android developers. Here you can find references about 
 - [APK size reduction](https://medium.com/google-developers/smallerapk-part-1-anatomy-of-an-apk-da83c25e7003#.g5f6dfng9) - Guide for apk size reduction.
 - [Android Instant Run](https://medium.com/google-developers/instant-run-how-does-it-work-294a1633367f#.5q59i049s) - Instant Run: How Does it Work?.
 - [Android New ConstraintLayout](https://medium.com/exploring-android/exploring-the-new-android-constraintlayout-eed37fe8d8f1#.g25l4abme) - Exploring the new Android ConstraintLayout.
+- [Android GitIgnore](https://github.com/github/gitignore/blob/master/Android.gitignore) - Android GitIgnore.
 - [Android Kotlin Libraries](https://github.com/mcxiaoke/awesome-kotlin) - A reference for 3rd party Kotlin libraries.
 
 
@@ -51,6 +55,22 @@ A complete reference for android developers. Here you can find references about 
 - [Twitter](https://twitter.com/amitiitbhu)
 - [Medium](https://medium.com/@amitshekhar)
 
+### License
+```
+   Copyright (C) 2016 Amit Shekhar
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+```
 
 ## Contributing
 
