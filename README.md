@@ -5,24 +5,12 @@
 A curated list of Android Complete References at one place.
 A complete reference for android developers. Here you can find references about everything you use while Android Development.
 
-### Guides And Tutorials
-
-- [Android Guides](https://github.com/codepath/android_guides) - Extensive Open-Source Guides for Android Developers.
-- [CodePath Android](http://guides.codepath.com/android) - The Complete tutorial for Android Developement with examples.
-- [Android Development](https://developer.android.com/index.html) - Android Development complete guide from Google.
-- [Android Blogs](https://github.com/vbauer/android-blogs) - List with blogs about Android.
-- [Vogella Tutorials ](http://www.vogella.com/tutorials/android.html) - Very good tutorials by Lars Vogel.
-- [Android Examples Codes](https://github.com/commonsguy/cw-omnibus) - The reference for Android Examples Codes.
-- [Android Tutorial Guide](https://commonsware.com/Android/) - The Busy Coder's Guide to Android Development.
-- [Android Sample Codes](https://github.com/googlesamples) - Sample Codes From Google.
-- [RxJava-Android-Samples](https://github.com/kaushikgopal/RxJava-Android-Samples) - Learning RxJava for Android by example.
-
 ### Third Party Libraries
 
 - [Android Arsenal](http://android-arsenal.com/) - The reference for 3rd party libraries.
-- [Android Networking](https://github.com/amitshekhariitbhu/AndroidNetworking) - Android Networking is a powerful library for doing any type of networking in Android applications.
 - [Snowdream Android Awesome](https://github.com/snowdream/awesome-android) - The reference for 3rd party libraries.
 - [JStumpp Android Awesome](https://github.com/JStumpp/awesome-android) - The reference for 3rd party libraries.
+- [Android Networking](https://github.com/amitshekhariitbhu/AndroidNetworking) - Android Networking is a powerful library for doing any type of networking in Android applications.
 - [Android Awesome UI](https://github.com/wasabeef/awesome-android-ui) - The reference for Android 3rd party UI libraries.
 - [Square Libraries](http://square.github.io/#android) - Android Libraries by Square.
 - [Android Libraries By Facebook](https://code.facebook.com/android/) - Android 3rd Party Libraries By Facebook.
@@ -70,6 +58,18 @@ A complete reference for android developers. Here you can find references about 
 
 - [Android Weekly](http://androidweekly.net/) - Android Weekly is a free newsletter that helps you to stay cutting-edge with your Android Development.
 - [Android Dev Digest](https://www.androiddevdigest.com/) - A Handcrafted Weekly AndroidDev Newsletter.
+
+### Guides And Tutorials
+
+- [CodePath Android](http://guides.codepath.com/android) - The Complete tutorial for Android Developement with examples.
+- [Android Examples Codes](https://github.com/commonsguy/cw-omnibus) - The reference for Android Examples Codes.
+- [Android Tutorial Guide](https://commonsware.com/Android/) - The Busy Coder's Guide to Android Development.
+- [Android Sample Codes](https://github.com/googlesamples) - Sample Codes From Google.
+- [Android Development](https://developer.android.com/index.html) - Android Development complete guide from Google.
+- [Android Guides](https://github.com/codepath/android_guides) - Extensive Open-Source Guides for Android Developers.
+- [Android Blogs](https://github.com/vbauer/android-blogs) - List with blogs about Android.
+- [Vogella Tutorials ](http://www.vogella.com/tutorials/android.html) - Very good tutorials by Lars Vogel.
+- [RxJava-Android-Samples](https://github.com/kaushikgopal/RxJava-Android-Samples) - Learning RxJava for Android by example.
 
 ### TODO
 - More references to be added
