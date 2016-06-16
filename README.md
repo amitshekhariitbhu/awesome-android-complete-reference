@@ -88,6 +88,6 @@ To the extent possible under law, [Amit Shekhar](https://github.com/amitshekhari
 
 ## Contributing
 
-Your contributions are always welcome! Just follow the following format: `[reference name](link) - Description.`
+Your contributions are always welcome! Just follow the following format: `[reference name](link) - Description.` If you like it , give a star to this project
 
 
