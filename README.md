@@ -31,6 +31,8 @@ A complete reference for android developers. Here you can find references about 
 ### Performance And Optimization
 
 - [Awesome Andriod Performance](https://github.com/Juude/awesome-android-performance) - The reference for Andriod Performance.
+- [Memory Churn and Performance](https://www.youtube.com/watch?v=McAvq5SkeTk&list=PLWz5rJ2EKKc9CBxr3BVjPTPoDPLdPIFCE&index=60) - Android Performance Patterns: Memory Churn and Performance.
+- [Performance Cost of Memory Leaks](https://www.youtube.com/watch?v=h7qHsk1nWKI&list=PLWz5rJ2EKKc9CBxr3BVjPTPoDPLdPIFCE&index=62) - Android Performance Patterns: Performance Cost of Memory Leaks.
 - [Android Performance Pattern](https://www.youtube.com/playlist?list=PLOU2XLYxmsIKEOXh5TwZEv89aofHzNCiu) - Android Performance Pattern from Google. 
 - [Android Image Compression](https://www.youtube.com/watch?v=r_LpCi6DQME) - Best Guide For Image Compression.
 - [FlatBuffer Vs JSON](https://medium.com/@amitshekhar/why-consider-flatbuffer-over-json-2e4aa8d4ed07#.y7rmdkgq3) - Why consider flatBuffer over JSON.
