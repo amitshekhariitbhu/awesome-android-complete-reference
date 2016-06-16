@@ -74,7 +74,7 @@ A complete reference for android developers. Here you can find references about 
 - [RxJava-Android-Samples](https://github.com/kaushikgopal/RxJava-Android-Samples) - Learning RxJava for Android by example.
 
 ### TODO
-- More references to be added
+- Updating it on daily basis as much as possible so that we will be always updated.
 
 ### Contact
 - [Facebook](https://www.facebook.com/amit.shekhar.iitbhu)
