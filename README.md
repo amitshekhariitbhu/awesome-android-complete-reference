@@ -11,6 +11,7 @@ A complete reference for android developers. Here you can find references about 
 - [Snowdream Android Awesome](https://github.com/snowdream/awesome-android) - The reference for 3rd party libraries.
 - [JStumpp Android Awesome](https://github.com/JStumpp/awesome-android) - The reference for 3rd party libraries.
 - [Android Networking](https://github.com/amitshekhariitbhu/AndroidNetworking) - Android Networking is a powerful library for doing any type of networking in Android applications.
+- [Glide Bitmap Pool](https://github.com/amitshekhariitbhu/GlideBitmapPool) - Glide Bitmap Pool is a memory management library for reusing the bitmap memory.
 - [Android Awesome UI](https://github.com/wasabeef/awesome-android-ui) - The reference for Android 3rd party UI libraries.
 - [Square Libraries](http://square.github.io/#android) - Android Libraries by Square.
 - [Android Libraries By Facebook](https://code.facebook.com/projects/android) - Android 3rd Party Libraries By Facebook.
@@ -31,6 +32,7 @@ A complete reference for android developers. Here you can find references about 
 ### Performance And Optimization
 
 - [Awesome Andriod Performance](https://github.com/Juude/awesome-android-performance) - The reference for Andriod Performance.
+- [Glide Bitmap Pool](https://github.com/amitshekhariitbhu/GlideBitmapPool) - Glide Bitmap Pool is a memory management library for reusing the bitmap memory.
 - [Memory Churn and Performance](https://www.youtube.com/watch?v=McAvq5SkeTk&list=PLWz5rJ2EKKc9CBxr3BVjPTPoDPLdPIFCE&index=60) - Android Performance Patterns: Memory Churn and Performance.
 - [Performance Cost of Memory Leaks](https://www.youtube.com/watch?v=h7qHsk1nWKI&list=PLWz5rJ2EKKc9CBxr3BVjPTPoDPLdPIFCE&index=62) - Android Performance Patterns: Performance Cost of Memory Leaks.
 - [Android Performance Pattern](https://www.youtube.com/playlist?list=PLOU2XLYxmsIKEOXh5TwZEv89aofHzNCiu) - Android Performance Pattern from Google. 
