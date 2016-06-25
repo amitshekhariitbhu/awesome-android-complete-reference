@@ -64,6 +64,12 @@ A complete reference for android developers. Here you can find references about 
 - [Android Weekly](http://androidweekly.net/) - Android Weekly is a free newsletter that helps you to stay cutting-edge with your Android Development.
 - [Android Dev Digest](https://www.androiddevdigest.com/) - A Handcrafted Weekly AndroidDev Newsletter.
 
+### Blogs
+
+- [Android Developers Blog](http://android-developers.blogspot.in/) - Android Developers Blog.
+- [Official Android Blog](https://android.googleblog.com/) - Official Android Blog.
+- [Android Blogs](https://github.com/vbauer/android-blogs) - List of blogs about Android.
+
 ### Guides And Tutorials
 
 - [CodePath Android](http://guides.codepath.com/android) - The Complete tutorial for Android Developement with examples.
@@ -72,7 +78,6 @@ A complete reference for android developers. Here you can find references about 
 - [Android Sample Codes](https://github.com/googlesamples) - Sample Codes From Google.
 - [Android Development](https://developer.android.com/index.html) - Android Development complete guide from Google.
 - [Android Guides](https://github.com/codepath/android_guides) - Extensive Open-Source Guides for Android Developers.
-- [Android Blogs](https://github.com/vbauer/android-blogs) - List with blogs about Android.
 - [Vogella Tutorials ](http://www.vogella.com/tutorials/android.html) - Very good tutorials by Lars Vogel.
 - [RxJava-Android-Samples](https://github.com/kaushikgopal/RxJava-Android-Samples) - Learning RxJava for Android by example.
 
