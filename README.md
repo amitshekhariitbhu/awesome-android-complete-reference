@@ -78,7 +78,8 @@ A complete reference for android developers. Here you can find references about 
 - [Android Sample Codes](https://github.com/googlesamples) - Sample Codes From Google.
 - [Android Development](https://developer.android.com/index.html) - Android Development complete guide from Google.
 - [Android Guides](https://github.com/codepath/android_guides) - Extensive Open-Source Guides for Android Developers.
-- [Vogella Tutorials ](http://www.vogella.com/tutorials/android.html) - Very good tutorials by Lars Vogel.
+- [Udacity Tutorials](https://www.udacity.com/course/developing-android-apps--ud853) - Udacity Tutorials.
+- [Vogella Tutorials](http://www.vogella.com/tutorials/android.html) - Very good tutorials by Lars Vogel.
 - [RxJava-Android-Samples](https://github.com/kaushikgopal/RxJava-Android-Samples) - Learning RxJava for Android by example.
 
 ### TODO
