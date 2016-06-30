@@ -1,6 +1,6 @@
-# Android Complete Reference 
+# Awesome Android Complete Reference 
 
-### About Android Complete Reference 
+### About Awesome Android Complete Reference 
 
 A curated list of Android Complete References at one place.
 A complete reference for android developers. Here you can find references about everything you use while Android Development.
