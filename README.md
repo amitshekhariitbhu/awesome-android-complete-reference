@@ -53,7 +53,7 @@ A complete reference for android developers. Here you can find references about 
 - [Google I/O Android App](https://github.com/google/iosched) - Google I/O Sources Code ,Best Coding Guidelines for Android Developers
 - [Android GitIgnore](https://github.com/github/gitignore/blob/master/Android.gitignore) - Android GitIgnore.
 - [Android Architecture](https://github.com/googlesamples/android-architecture) - Android Architecture Blueprints.
-- [Android Open Project](https://github.com/Trinea/android-open-project) - Android Open Source Project subtotals.
+- [Android Open Project](https://github.com/Trinea/android-open-project/tree/master/English%20Version) - Android Open Source Project subtotals.
 - [Open Source Android App Codes](https://en.wikipedia.org/wiki/List_of_free_and_open-source_Android_applications) - List of Android Application which have open source code.
 - [Git Tips](https://github.com/git-tips/tips) - Useful git tips required while development.
 - [API Demo](https://play.google.com/store/apps/details?id=com.hmh.api&hl=en) - Api demo.
