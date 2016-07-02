@@ -8,6 +8,7 @@ A complete reference for android developers. Here you can find references about 
 ### Third Party Libraries
 
 - [Android Arsenal](http://android-arsenal.com/) - Largest Reference for 3rd party libraries.
+- [Networking Libraries](http://android-arsenal.com/tag/65) - Networking libraries.
 - [JStumpp Android Awesome](https://github.com/JStumpp/awesome-android) - The reference for 3rd party libraries.
 - [Snowdream Android Awesome](https://github.com/snowdream/awesome-android) - The reference for 3rd party libraries.
 - [Android Networking](https://github.com/amitshekhariitbhu/AndroidNetworking) - Android Networking is a powerful library for doing any type of networking in Android applications.
