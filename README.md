@@ -89,9 +89,9 @@ A complete reference for android developers. Here you can find references about 
 - Updating it on daily basis as much as possible so that we will be always updated.
 
 ### Contact
-- [Facebook](https://www.facebook.com/amit.shekhar.iitbhu)
 - [Twitter](https://twitter.com/amitiitbhu)
 - [Medium](https://medium.com/@amitshekhar)
+- [Facebook](https://www.facebook.com/amit.shekhar.iitbhu)
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
