@@ -52,6 +52,7 @@ A complete reference for android developers. Here you can find references about 
 
 - [Must Have Libraries](http://guides.codepath.com/android/Must-Have-Libraries#networking) - Guides for Must Have Libraries.
 - [Android Best Practices](https://github.com/futurice/android-best-practices) - Android Best Practices.
+- [Thread Pool Executor](https://medium.com/@amitshekhar/threadpoolexecutor-in-android-8e9d22330ee3#.l1ts1b28v) - Using ThreadPoolExecutor in Android.
 - [Developing Android](https://medium.com/google-developers/developing-for-android-introduction-5345b451567c#.uenqgpr7q) - A series of articles from Googler Chet Hasae and others, answering most commonly asked question: "What are some of the important rules to keep in mind when developing Android applications?".
 - [Google I/O Android App](https://github.com/google/iosched) - Google I/O Sources Code ,Best Coding Guidelines for Android Developers
 - [Android GitIgnore](https://github.com/github/gitignore/blob/master/Android.gitignore) - Android GitIgnore.
