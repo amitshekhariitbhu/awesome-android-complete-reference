@@ -92,8 +92,9 @@ A complete reference for android developers. Here you can find references about 
 ### TODO
 - Updating it on daily basis as much as possible so that we will be always updated.
 
-### Contact
+### Contact - Let's become friend
 - [Twitter](https://twitter.com/amitiitbhu)
+- [Github](https://github.com/amitshekhariitbhu)
 - [Medium](https://medium.com/@amitshekhar)
 - [Facebook](https://www.facebook.com/amit.shekhar.iitbhu)
 
