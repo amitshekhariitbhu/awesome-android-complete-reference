@@ -23,6 +23,7 @@ A complete reference for android developers. Here you can find references about 
 - [DevAppsDirect - Demo Market](https://play.google.com/store/apps/details?id=com.inappsquared.devappsdirect) - App that demonstrates different libraries.
 - [Awesome Android @LibHunt](https://android.libhunt.com/) - Your go-to Android Toolbox.
 - [Android Kotlin Libraries](https://github.com/mcxiaoke/awesome-kotlin) - A reference for 3rd party Kotlin libraries.
+- [Gradle Please](http://gradleplease.appspot.com/) - Gradle Dependencies for Libraries.
 
 ### Andoid UI
 
