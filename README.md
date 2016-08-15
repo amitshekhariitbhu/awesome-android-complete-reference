@@ -37,7 +37,6 @@ A complete reference for android developers. Here you can find references about 
 
 - [Awesome Andriod Performance](https://github.com/Juude/awesome-android-performance) - The reference for Andriod Performance.
 - [Reusing Bitmap Memory](https://medium.com/@amitshekhar/how-to-use-bitmap-pool-in-android-56c71a55533c#.m41wqfk8h) - How to use Bitmap Pool in Android ?
-- [Android Fast And Easy Networking](https://medium.freecodecamp.com/simple-and-fast-android-networking-19ed860d1455#.fpcqie1mn) - Android Fast And Easy Networking
 - [Glide Bitmap Pool](https://github.com/amitshekhariitbhu/GlideBitmapPool) - Glide Bitmap Pool is a memory management library for reusing the bitmap memory.
 - [Memory Churn and Performance](https://www.youtube.com/watch?v=McAvq5SkeTk&list=PLWz5rJ2EKKc9CBxr3BVjPTPoDPLdPIFCE&index=60) - Android Performance Patterns: Memory Churn and Performance.
 - [Performance Cost of Memory Leaks](https://www.youtube.com/watch?v=h7qHsk1nWKI&list=PLWz5rJ2EKKc9CBxr3BVjPTPoDPLdPIFCE&index=62) - Android Performance Patterns: Performance Cost of Memory Leaks.
@@ -49,6 +48,7 @@ A complete reference for android developers. Here you can find references about 
 - [Android Instant Run](https://medium.com/google-developers/instant-run-how-does-it-work-294a1633367f#.5q59i049s) - Instant Run: How Does it Work?.
 - [Method Count Library](http://www.methodscount.com/) - A website to check method count of 3rd party libraries.
 - [Method Count APK](http://inloop.github.io/apk-method-count/) - A website to check method count of an APK.
+- [Using Fast Android Networking](https://medium.freecodecamp.com/simple-and-fast-android-networking-19ed860d1455#.fpcqie1mn) - Android Fast And Easy Networking
 
 ### Best Practices
 
