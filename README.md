@@ -90,6 +90,7 @@ A complete reference for android developers. Here you can find references about 
 - [Vogella Tutorials](http://www.vogella.com/tutorials/android.html) - Very good tutorials by Lars Vogel.
 - [Android Examples](https://github.com/nisrulz/android-examples) - Andriod Examples.
 - [Learn RxJava](https://github.com/amitshekhariitbhu/Fast-Android-Networking/wiki/Using-Fast-Android-Networking-Library-With-RxJava) - Simplest way to learn RxJava by example.
+- [RxJava2-Android-Samples](https://github.com/amitshekhariitbhu/RxJava2-Android-Samples) - Learning RxJava for Android by example.
 - [RxJava-Android-Samples](https://github.com/kaushikgopal/RxJava-Android-Samples) - Learning RxJava for Android by example.
 
 ### TODO
