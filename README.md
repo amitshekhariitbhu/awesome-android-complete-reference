@@ -32,6 +32,7 @@ A complete reference for android developers. Here you can find references about 
 - [Android New ConstraintLayout](https://medium.com/exploring-android/exploring-the-new-android-constraintlayout-eed37fe8d8f1#.g25l4abme) - Exploring the new Android ConstraintLayout.
 - [Material Design Icons](https://materialdesignicons.com/) - Material Design Icons
 - [Material Up](http://www.materialup.com/) - MaterialUp curates the best of Material Design
+- [Holo Colors](http://android-holo-colors.com/) - Holo Colors for icons
 
 ### Performance And Optimization
 
@@ -49,6 +50,7 @@ A complete reference for android developers. Here you can find references about 
 - [Method Count Library](http://www.methodscount.com/) - A website to check method count of 3rd party libraries.
 - [Method Count APK](http://inloop.github.io/apk-method-count/) - A website to check method count of an APK.
 - [Using Fast Android Networking](https://medium.freecodecamp.com/simple-and-fast-android-networking-19ed860d1455#.fpcqie1mn) - Android Fast And Easy Networking
+- [Comparing Android NDK and RenderScript](https://medium.freecodecamp.com/comparing-android-ndk-and-renderscript-1a718c01f6fe) - Comparing Android NDK and RenderScript
 
 ### Best Practices
 
@@ -70,6 +72,7 @@ A complete reference for android developers. Here you can find references about 
 
 - [Android Weekly](http://androidweekly.net/) - Android Weekly is a free newsletter that helps you to stay cutting-edge with your Android Development.
 - [Android Dev Digest](https://www.androiddevdigest.com/) - A Handcrafted Weekly AndroidDev Newsletter.
+- [Android Development Useful Tools](https://medium.freecodecamp.com/android-development-useful-tools-fd73283e82e3) - Android Development Useful Tools
 
 ### Blogs
 
