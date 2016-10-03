@@ -99,13 +99,11 @@ A complete reference for android developers. Here you can find references about 
 ### TODO
 - Updating it on daily basis as much as possible so that we will be always updated.
 
-### Show some :heart:
-* Be sure to click the "<b>Star</b>" button in the upper right of this page. :smile:
-
-[![GitHub stars](https://img.shields.io/github/stars/amitshekhariitbhu/awesome-android-complete-reference.svg?style=social&label=Star)](https://github.com/amitshekhariitbhu/awesome-android-complete-reference) [![GitHub forks](https://img.shields.io/github/forks/amitshekhariitbhu/awesome-android-complete-reference.svg?style=social&label=Fork)](https://github.com/amitshekhariitbhu/awesome-android-complete-reference/fork)  [![GitHub followers](https://img.shields.io/github/followers/amitshekhariitbhu.svg?style=social&label=Follow)](https://github.com/amitshekhariitbhu)  
-[![Twitter Follow](https://img.shields.io/twitter/follow/amitiitbhu.svg?style=social)](https://twitter.com/amitiitbhu)
+### Found this project useful :heart:
+* Support by clicking the :star: button on the upper right of this page. :v:
 
 ### Contact - Let's become friend
+- [Twitter](https://twitter.com/amitiitbhu)
 - [Github](https://github.com/amitshekhariitbhu)
 - [Medium](https://medium.com/@amitshekhar)
 - [Facebook](https://www.facebook.com/amit.shekhar.iitbhu)
