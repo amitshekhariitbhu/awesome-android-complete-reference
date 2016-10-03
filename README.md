@@ -25,7 +25,7 @@ A complete reference for android developers. Here you can find references about 
 - [Android Kotlin Libraries](https://github.com/mcxiaoke/awesome-kotlin) - A reference for 3rd party Kotlin libraries.
 - [Gradle Please](http://gradleplease.appspot.com/) - Gradle Dependencies for Libraries.
 
-### Andoid UI
+### Android UI
 
 - [Android UI/UX](http://androidniceties.tumblr.com/) - The reference for Android Best UI/UX.
 - [Android Icon Generator](https://romannurik.github.io/AndroidAssetStudio/) - Generator for icons and other assets.
@@ -36,7 +36,7 @@ A complete reference for android developers. Here you can find references about 
 
 ### Performance And Optimization
 
-- [Awesome Andriod Performance](https://github.com/Juude/awesome-android-performance) - The reference for Andriod Performance.
+- [Awesome Android Performance](https://github.com/Juude/awesome-android-performance) - The reference for Android Performance.
 - [Reusing Bitmap Memory](https://medium.com/@amitshekhar/how-to-use-bitmap-pool-in-android-56c71a55533c#.m41wqfk8h) - How to use Bitmap Pool in Android ?
 - [Glide Bitmap Pool](https://github.com/amitshekhariitbhu/GlideBitmapPool) - Glide Bitmap Pool is a memory management library for reusing the bitmap memory.
 - [Memory Churn and Performance](https://www.youtube.com/watch?v=McAvq5SkeTk&list=PLWz5rJ2EKKc9CBxr3BVjPTPoDPLdPIFCE&index=60) - Android Performance Patterns: Memory Churn and Performance.
