@@ -54,6 +54,7 @@ A complete reference for android developers. Here you can find references about 
 
 ### Best Practices
 
+- [Android Development Best Practices](https://medium.freecodecamp.com/android-development-best-practices-83c94b027fd3) - Android Development Best Practices.
 - [Must Have Libraries](http://guides.codepath.com/android/Must-Have-Libraries#networking) - Guides for Must Have Libraries.
 - [Android Best Practices](https://github.com/futurice/android-best-practices) - Android Best Practices.
 - [Building Android Apps](https://medium.com/@cesarmcferreira/building-android-apps-30-things-that-experience-made-me-learn-the-hard-way-313680430bf9#.rej785f6d) - Building Android Apps - Better Way.
