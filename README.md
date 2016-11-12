@@ -51,7 +51,7 @@ A complete reference for android developers. Here you can find references about 
 - [Method Count APK](http://inloop.github.io/apk-method-count/) - A website to check method count of an APK.
 - [Using Fast Android Networking](https://medium.freecodecamp.com/simple-and-fast-android-networking-19ed860d1455#.fpcqie1mn) - Android Fast And Easy Networking
 - [Comparing Android NDK and RenderScript](https://medium.freecodecamp.com/comparing-android-ndk-and-renderscript-1a718c01f6fe) - Comparing Android NDK and RenderScript
-- [Android App Optimization Using ArrayMap and SparseArray](https://medium.com/@amitshekhar/android-app-optimization-using-arraymap-and-sparsearray-f2b4e2e3dc47 - Android App Optimization Using ArrayMap and SparseArray
+- [Android App Optimization Using ArrayMap and SparseArray](https://medium.com/@amitshekhar/android-app-optimization-using-arraymap-and-sparsearray-f2b4e2e3dc47) - Android App Optimization Using ArrayMap and SparseArray
 
 ### Best Practices
 
