@@ -12,6 +12,7 @@ A complete reference for android developers. Here you can find references about 
 - [JStumpp Android Awesome](https://github.com/JStumpp/awesome-android) - The reference for 3rd party libraries.
 - [Snowdream Android Awesome](https://github.com/snowdream/awesome-android) - The reference for 3rd party libraries.
 - [Fast Android Networking](https://github.com/amitshekhariitbhu/Fast-Android-Networking) - Android Networking is a powerful library for doing any type of networking in Android applications.
+- [Android Debug Database](https://github.com/amitshekhariitbhu/Android-Debug-Database) - Android Debug Database is a powerful library for debugging databases and shared preferences in Android applications.
 - [Glide Bitmap Pool](https://github.com/amitshekhariitbhu/GlideBitmapPool) - Glide Bitmap Pool is a memory management library for reusing the bitmap memory.
 - [Android Awesome UI](https://github.com/wasabeef/awesome-android-ui) - The reference for Android 3rd party UI libraries.
 - [Square Libraries](http://square.github.io/#android) - Android Libraries by Square.
@@ -78,6 +79,7 @@ A complete reference for android developers. Here you can find references about 
 
 ### Blogs
 
+- [Android Medium Blog](https://medium.com/@amitshekhar) - Android Medium Blog.
 - [Android Developers Blog](http://android-developers.blogspot.in/) - Android Developers Blog.
 - [Official Android Blog](https://android.googleblog.com/) - Official Android Blog.
 - [Android Blogs](https://github.com/vbauer/android-blogs) - List of blogs about Android.
