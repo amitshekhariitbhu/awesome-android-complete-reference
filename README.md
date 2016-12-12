@@ -38,30 +38,30 @@ A complete reference for android developers. Here you can find references about 
 ### Performance And Optimization
 
 - [Awesome Android Performance](https://github.com/Juude/awesome-android-performance) - The reference for Android Performance.
-- [Reusing Bitmap Memory](https://medium.com/@amitshekhar/how-to-use-bitmap-pool-in-android-56c71a55533c#.m41wqfk8h) - How to use Bitmap Pool in Android ?
+- [Reusing Bitmap Memory](https://blog.mindorks.com/how-to-use-bitmap-pool-in-android-56c71a55533c) - How to use Bitmap Pool in Android ?
 - [Glide Bitmap Pool](https://github.com/amitshekhariitbhu/GlideBitmapPool) - Glide Bitmap Pool is a memory management library for reusing the bitmap memory.
 - [Memory Churn and Performance](https://www.youtube.com/watch?v=McAvq5SkeTk&list=PLWz5rJ2EKKc9CBxr3BVjPTPoDPLdPIFCE&index=60) - Android Performance Patterns: Memory Churn and Performance.
 - [Performance Cost of Memory Leaks](https://www.youtube.com/watch?v=h7qHsk1nWKI&list=PLWz5rJ2EKKc9CBxr3BVjPTPoDPLdPIFCE&index=62) - Android Performance Patterns: Performance Cost of Memory Leaks.
 - [Android Performance Pattern](https://www.youtube.com/playlist?list=PLOU2XLYxmsIKEOXh5TwZEv89aofHzNCiu) - Android Performance Pattern from Google. 
 - [Android Image Compression](https://www.youtube.com/watch?v=r_LpCi6DQME) - Best Guide For Image Compression.
-- [FlatBuffer Vs JSON](https://medium.com/@amitshekhar/why-consider-flatbuffer-over-json-2e4aa8d4ed07#.y7rmdkgq3) - Why consider flatBuffer over JSON.
+- [FlatBuffer Vs JSON](https://blog.mindorks.com/why-consider-flatbuffer-over-json-2e4aa8d4ed07) - Why consider flatBuffer over JSON.
 - [Android Proguard Snippets](https://github.com/krschultz/android-proguard-snippets) - Android Proguard Rules for Common 3rd Party Libraries.
 - [APK size reduction](https://medium.com/google-developers/smallerapk-part-1-anatomy-of-an-apk-da83c25e7003#.g5f6dfng9) - Guide for apk size reduction.
 - [Android Instant Run](https://medium.com/google-developers/instant-run-how-does-it-work-294a1633367f#.5q59i049s) - Instant Run: How Does it Work?.
 - [Method Count Library](http://www.methodscount.com/) - A website to check method count of 3rd party libraries.
 - [Method Count APK](http://inloop.github.io/apk-method-count/) - A website to check method count of an APK.
-- [Using Fast Android Networking](https://medium.freecodecamp.com/simple-and-fast-android-networking-19ed860d1455#.fpcqie1mn) - Android Fast And Easy Networking
-- [Comparing Android NDK and RenderScript](https://medium.freecodecamp.com/comparing-android-ndk-and-renderscript-1a718c01f6fe) - Comparing Android NDK and RenderScript
-- [Android App Optimization Using ArrayMap and SparseArray](https://medium.com/@amitshekhar/android-app-optimization-using-arraymap-and-sparsearray-f2b4e2e3dc47) - Android App Optimization Using ArrayMap and SparseArray
+- [Using Fast Android Networking](https://blog.mindorks.com/simple-and-fast-android-networking-19ed860d1455) - Android Fast And Easy Networking
+- [Comparing Android NDK and RenderScript](https://blog.mindorks.com/comparing-android-ndk-and-renderscript-1a718c01f6fe) - Comparing Android NDK and RenderScript
+- [Android App Optimization Using ArrayMap and SparseArray](https://blog.mindorks.com/android-app-optimization-using-arraymap-and-sparsearray-f2b4e2e3dc47) - Android App Optimization Using ArrayMap and SparseArray
 
 ### Best Practices
 
-- [Android Development Best Practices](https://medium.freecodecamp.com/android-development-best-practices-83c94b027fd3) - Android Development Best Practices.
-- [Awesome Android Open Source Libraries](https://medium.com/@amitshekhar/awesome-android-open-source-libraries-56a008c776c0) - Awesome Android Open Source Libraries.
+- [Android Development Best Practices](https://blog.mindorks.com/android-development-best-practices-83c94b027fd3) - Android Development Best Practices.
+- [Awesome Android Open Source Libraries](https://blog.mindorks.com/awesome-android-open-source-libraries-56a008c776c0) - Awesome Android Open Source Libraries.
 - [Must Have Libraries](http://guides.codepath.com/android/Must-Have-Libraries#networking) - Guides for Must Have Libraries.
 - [Android Best Practices](https://github.com/futurice/android-best-practices) - Android Best Practices.
 - [Building Android Apps](https://medium.com/@cesarmcferreira/building-android-apps-30-things-that-experience-made-me-learn-the-hard-way-313680430bf9#.rej785f6d) - Building Android Apps - Better Way.
-- [Thread Pool Executor](https://medium.com/@amitshekhar/threadpoolexecutor-in-android-8e9d22330ee3#.l1ts1b28v) - Using ThreadPoolExecutor in Android.
+- [Thread Pool Executor](https://blog.mindorks.com/threadpoolexecutor-in-android-8e9d22330ee3) - Using ThreadPoolExecutor in Android.
 - [Developing Android](https://medium.com/google-developers/developing-for-android-introduction-5345b451567c#.uenqgpr7q) - A series of articles from Googler Chet Hasae and others, answering most commonly asked question: "What are some of the important rules to keep in mind when developing Android applications?".
 - [Google I/O Android App](https://github.com/google/iosched) - Google I/O Sources Code ,Best Coding Guidelines for Android Developers
 - [Android GitIgnore](https://github.com/github/gitignore/blob/master/Android.gitignore) - Android GitIgnore.
@@ -76,11 +76,12 @@ A complete reference for android developers. Here you can find references about 
 
 - [Android Weekly](http://androidweekly.net/) - Android Weekly is a free newsletter that helps you to stay cutting-edge with your Android Development.
 - [Android Dev Digest](https://www.androiddevdigest.com/) - A Handcrafted Weekly AndroidDev Newsletter.
-- [Android Development Useful Tools](https://medium.freecodecamp.com/android-development-useful-tools-fd73283e82e3) - Android Development Useful Tools
+- [Android Development Useful Tools](https://blog.mindorks.com/android-development-useful-tools-fd73283e82e3) - Android Development Useful Tools
 
 ### Blogs
 
 - [Android Medium Blog](https://medium.com/@amitshekhar) - Android Medium Blog.
+- [Android Mindorks Blog](https://blog.mindorks.com) - Android Mindorks Blog.
 - [Android Developers Blog](http://android-developers.blogspot.in/) - Android Developers Blog.
 - [Official Android Blog](https://android.googleblog.com/) - Official Android Blog.
 - [Android Blogs](https://github.com/vbauer/android-blogs) - List of blogs about Android.
