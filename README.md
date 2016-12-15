@@ -77,6 +77,7 @@ A complete reference for android developers. Here you can find references about 
 - [Android Weekly](http://androidweekly.net/) - Android Weekly is a free newsletter that helps you to stay cutting-edge with your Android Development.
 - [Android Dev Digest](https://www.androiddevdigest.com/) - A Handcrafted Weekly AndroidDev Newsletter.
 - [Android Development Useful Tools](https://blog.mindorks.com/android-development-useful-tools-fd73283e82e3) - Android Development Useful Tools
+- [Android Things](https://blog.mindorks.com/google-released-the-developer-preview-of-android-things-iot-75cb49b9ce24) - About Android Things
 
 ### Blogs
 
