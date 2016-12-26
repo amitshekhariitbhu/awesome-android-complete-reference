@@ -102,6 +102,8 @@ A complete reference for android developers. Here you can find references about 
 - [Learn RxJava](https://github.com/amitshekhariitbhu/Fast-Android-Networking/wiki/Using-Fast-Android-Networking-Library-With-RxJava) - Simplest way to learn RxJava by example.
 - [RxJava2-Android-Samples](https://github.com/amitshekhariitbhu/RxJava2-Android-Samples) - Learning RxJava for Android by example.
 - [RxJava-Android-Samples](https://github.com/kaushikgopal/RxJava-Android-Samples) - Learning RxJava for Android by example.
+- [Awesome Android Things](https://github.com/amitshekhariitbhu/awesome-android-things) - A curated list of awesome android things, tutorials, libraries and much more at one place.
+
 
 ### TODO
 - Updating it on daily basis as much as possible so that we will be always updated.
