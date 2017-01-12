@@ -40,6 +40,7 @@ A complete reference for android developers. Here you can find references about 
 - [Awesome Android Performance](https://github.com/Juude/awesome-android-performance) - The reference for Android Performance.
 - [Reusing Bitmap Memory](https://blog.mindorks.com/how-to-use-bitmap-pool-in-android-56c71a55533c) - How to use Bitmap Pool in Android ?
 - [Glide Bitmap Pool](https://github.com/amitshekhariitbhu/GlideBitmapPool) - Glide Bitmap Pool is a memory management library for reusing the bitmap memory.
+- [Battery Optimization for Android Apps](https://blog.mindorks.com/battery-optimization-for-android-apps-f4ef6170ff70) - Battery Optimization for Android Apps.
 - [Memory Churn and Performance](https://www.youtube.com/watch?v=McAvq5SkeTk&list=PLWz5rJ2EKKc9CBxr3BVjPTPoDPLdPIFCE&index=60) - Android Performance Patterns: Memory Churn and Performance.
 - [Performance Cost of Memory Leaks](https://www.youtube.com/watch?v=h7qHsk1nWKI&list=PLWz5rJ2EKKc9CBxr3BVjPTPoDPLdPIFCE&index=62) - Android Performance Patterns: Performance Cost of Memory Leaks.
 - [Android Performance Pattern](https://www.youtube.com/playlist?list=PLOU2XLYxmsIKEOXh5TwZEv89aofHzNCiu) - Android Performance Pattern from Google. 
