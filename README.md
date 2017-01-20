@@ -107,6 +107,7 @@ A complete reference for android developers. Here you can find references about 
 - [Introduction to Dagger2 - Part 1](https://blog.mindorks.com/introduction-to-dagger-2-using-dependency-injection-in-android-part-1-223289c2a01b) - The simplest introduction to dagger2, Dependency Injection in Android Application.
 - [Introduction to Dagger2 - Part 2](https://blog.mindorks.com/introduction-to-dagger-2-using-dependency-injection-in-android-part-2-b55857911bcd) - The simplest introduction to dagger2, Dependency Injection in Android Application.
 - [Awesome Android Things](https://github.com/amitshekhariitbhu/awesome-android-things) - A curated list of awesome android things, tutorials, libraries and much more at one place.
+- [Using SnapHelper in RecyclerView](https://blog.mindorks.com/using-snaphelper-in-recyclerview-fc616b6833e8) - Using SnapHelper in RecyclerView.
 
 
 ### TODO
