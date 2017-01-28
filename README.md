@@ -73,6 +73,7 @@ A complete reference for android developers. Here you can find references about 
 - [Git Tips](https://github.com/git-tips/tips) - Useful git tips required while development.
 - [API Demo](https://play.google.com/store/apps/details?id=com.hmh.api&hl=en) - Api demo.
 - [Another API Demo](https://play.google.com/store/apps/details?id=com.touchboarder.android.api.demos&hl=en) - Another Api demo.
+- [Using StrictMode in Android](https://blog.mindorks.com/use-strictmode-to-find-things-you-did-by-accident-in-android-development-4cf0e7c8d997) - Use StrictMode To Find Things You Did By Accident In Android Development
 
 ### News And Articles
 
