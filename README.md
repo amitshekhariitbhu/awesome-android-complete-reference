@@ -5,6 +5,11 @@
 A curated list of Android Complete References at one place.
 A complete reference for android developers. Here you can find references about everything you use while Android Development.
 
+### Android App Architecture
+- [Android-MVP-Architecture](https://github.com/MindorksOpenSource/android-mvp-architecture) - A complete android project based on MVP architecture.
+- [Android MVP Sample Application](https://github.com/amitshekhariitbhu/Android-MVP-Sample-Application) - A very simple sample app on MVP architecture.
+- [Blog Post on MVP Architecture](https://blog.mindorks.com/essential-guide-for-designing-your-android-app-architecture-mvp-part-1-74efaf1cda40) - Essential Guide For Designing Your Android App Architecture.
+
 ### Third Party Libraries
 
 - [Android Arsenal](http://android-arsenal.com/) - Largest Reference for 3rd party libraries.
@@ -60,7 +65,6 @@ A complete reference for android developers. Here you can find references about 
 - [Awesome Android Open Source Libraries](https://blog.mindorks.com/awesome-android-open-source-libraries-56a008c776c0) - Awesome Android Open Source Libraries.
 - [Must Have Libraries](http://guides.codepath.com/android/Must-Have-Libraries#networking) - Guides for Must Have Libraries.
 - [Android Best Practices](https://github.com/futurice/android-best-practices) - Android Best Practices.
-- [Android MVP Sample Application](https://github.com/amitshekhariitbhu/Android-MVP-Sample-Application) - A very simple sample app on MVP architecture.
 - [Building Android Apps](https://medium.com/@cesarmcferreira/building-android-apps-30-things-that-experience-made-me-learn-the-hard-way-313680430bf9#.rej785f6d) - Building Android Apps - Better Way.
 - [Thread Pool Executor](https://blog.mindorks.com/threadpoolexecutor-in-android-8e9d22330ee3) - Using ThreadPoolExecutor in Android.
 - [Developing Android](https://medium.com/google-developers/developing-for-android-introduction-5345b451567c#.uenqgpr7q) - A series of articles from Googler Chet Hasae and others, answering most commonly asked question: "What are some of the important rules to keep in mind when developing Android applications?".
