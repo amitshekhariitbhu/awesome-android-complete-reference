@@ -7,7 +7,7 @@ A complete reference for android developers. Here you can find references about 
 
 ### Android App Architecture
 - [Android-MVP-Architecture](https://github.com/MindorksOpenSource/android-mvp-architecture) - A complete android project based on MVP architecture.
-- [Android MVP Sample Application](https://github.com/amitshekhariitbhu/Android-MVP-Sample-Application) - A very simple sample app on MVP architecture.
+- [Android MVP Sample Application](https://github.com/amitshekhariitbhu/Android-MVP-Sample-Application) - A very basic android sample application on MVP architecture.
 - [Blog Post on MVP Architecture](https://blog.mindorks.com/essential-guide-for-designing-your-android-app-architecture-mvp-part-1-74efaf1cda40) - Essential Guide For Designing Your Android App Architecture.
 
 ### Third Party Libraries
