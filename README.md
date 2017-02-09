@@ -12,7 +12,7 @@ A complete reference for android developers. Here you can find references about 
 
 ### Third Party Libraries
 
-- [Mindorks Open Source Projects](https://www.mindorks.com/open-source-projects) - Mindorks Open Source Projects
+- [Mindorks Open Source Projects](https://mindorks.com/open-source-projects) - Mindorks Open Source Projects
 - [Android Arsenal](http://android-arsenal.com/) - Largest Reference for 3rd party libraries.
 - [JStumpp Android Awesome](https://github.com/JStumpp/awesome-android) - The reference for 3rd party libraries.
 - [Snowdream Android Awesome](https://github.com/snowdream/awesome-android) - The reference for 3rd party libraries.
@@ -88,7 +88,7 @@ A complete reference for android developers. Here you can find references about 
 
 ### Blogs
 
-- [Mindorks Blog](https://www.mindorks.com/blogs) - Mindroks Blog.
+- [Mindorks Blog](https://mindorks.com/blogs) - Mindorks Blog.
 - [Android Medium Blog](https://medium.com/@amitshekhar) - Android Medium Blog.
 - [Android Mindorks Blog](https://blog.mindorks.com) - Android Mindorks Blog.
 - [Android Developers Blog](http://android-developers.blogspot.in/) - Android Developers Blog.
