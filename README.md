@@ -117,7 +117,7 @@ A complete reference for android developers. Here you can find references about 
 
 
 ### TODO
-- Updating it on daily basis as much as possible so that we will be always updated.
+- Updating it on daily basis as much as possible, work in progess.
 
 ### Found this project useful :heart:
 * Support by clicking the :star: button on the upper right of this page. :v:
