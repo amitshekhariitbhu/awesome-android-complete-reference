@@ -59,6 +59,7 @@ A complete reference for android developers. Here you can find references about 
 - [Using Fast Android Networking](https://blog.mindorks.com/simple-and-fast-android-networking-19ed860d1455) - Android Fast And Easy Networking
 - [Comparing Android NDK and RenderScript](https://blog.mindorks.com/comparing-android-ndk-and-renderscript-1a718c01f6fe) - Comparing Android NDK and RenderScript
 - [Android App Optimization Using ArrayMap and SparseArray](https://blog.mindorks.com/android-app-optimization-using-arraymap-and-sparsearray-f2b4e2e3dc47) - Android App Optimization Using ArrayMap and SparseArray
+- [Android App Performance Metrics](https://blog.mindorks.com/android-app-performance-metrics-a1176334186e) - Metrics that you should measure continuously while android application development
 
 ### Best Practices
 
