@@ -9,7 +9,8 @@ A complete reference for android developers. Here you can find references about 
 - [Android-MVP-Architecture](https://github.com/MindorksOpenSource/android-mvp-architecture) - A complete android project based on MVP architecture.
 - [Android MVP Sample Application](https://github.com/amitshekhariitbhu/Android-MVP-Sample-Application) - A very basic android sample application on MVP architecture.
 - [Blog Post on MVP Architecture](https://blog.mindorks.com/essential-guide-for-designing-your-android-app-architecture-mvp-part-1-74efaf1cda40) - Essential Guide For Designing Your Android App Architecture.
-
+- [Android-MVVM-Architecture](https://github.com/florina-muntenescu/DroidconMVVM) - A nice example for MVVM architecture
+- [MVVM on Android using RxJava and Data Binding](https://github.com/manas-chaudhari/android-mvvm) - Sample project to demonstrate a coding pattern based on MVVM
 ### Third Party Libraries
 
 - [Mindorks Open Source Projects](https://mindorks.com/open-source-projects) - Mindorks Open Source Projects
