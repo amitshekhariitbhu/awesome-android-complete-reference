@@ -120,6 +120,7 @@ A complete reference for android developers. Here you can find references about 
 - [RxJava-Android-Samples](https://github.com/kaushikgopal/RxJava-Android-Samples) - Learning RxJava for Android by example.
 - [Learn Dagger2](https://blog.mindorks.com/a-complete-guide-to-learn-dagger-2-b4c7a570d99c) - A Complete Guide To Learn Dagger 2.
 - [Learn Kotlin](https://blog.mindorks.com/a-complete-guide-to-learn-kotlin-for-android-development-b1e5d23cc2d8) - A Complete Guide To Learn Kotlin.
+- [From Java To Kotlin](https://github.com/MindorksOpenSource/from-java-to-kotlin) - Your Cheat Sheet For Java To Kotlin.
 - [Introduction to Dagger2 - Part 1](https://blog.mindorks.com/introduction-to-dagger-2-using-dependency-injection-in-android-part-1-223289c2a01b) - The simplest introduction to dagger2, Dependency Injection in Android Application.
 - [Introduction to Dagger2 - Part 2](https://blog.mindorks.com/introduction-to-dagger-2-using-dependency-injection-in-android-part-2-b55857911bcd) - The simplest introduction to dagger2, Dependency Injection in Android Application.
 - [Awesome Android Things](https://github.com/amitshekhariitbhu/awesome-android-things) - A curated list of awesome android things, tutorials, libraries and much more at one place.
