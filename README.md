@@ -85,6 +85,7 @@ A complete reference for android developers. Here you can find references about 
 - [Understanding the Task and the Back Stack in Android](https://blog.mindorks.com/android-task-and-back-stack-review-5017f2c18196) - Task and the Back Stack in Android
 - [Understanding Context In Android](https://blog.mindorks.com/understanding-context-in-android-application-330913e32514) - Use Correct Context To Avoid Memory Leaks
 - [Improve Your Android Coding Through Annotations](https://blog.mindorks.com/improve-your-android-coding-through-annotations-26b3273c137a) - Improve Your Android Coding Through Annotations
+- [Learn Kotlin —  lateinit vs lazy](https://mindorks.com/blog/learn-kotlin-lateinit-vs-lazy) - Learn Kotlin —  lateinit vs lazy
 
 ### News And Articles
 
