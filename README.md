@@ -87,6 +87,7 @@ A complete reference for android developers. Here you can find references about 
 - [Improve Your Android Coding Through Annotations](https://blog.mindorks.com/improve-your-android-coding-through-annotations-26b3273c137a) - Improve Your Android Coding Through Annotations
 - [Learn Kotlin - lateinit vs lazy](https://mindorks.com/blog/learn-kotlin-lateinit-vs-lazy) - Learn Kotlin - lateinit vs lazy
 - [Learn Kotlin - apply vs with](https://mindorks.com/blog/learn-kotlin-apply-vs-with) - Learn Kotlin - apply vs with
+- [Learn Kotlin - Extension Functions](https://mindorks.com/blog/learn-kotlin-extension-functions) - Learn Kotlin - Extension Functions
 
 ### News And Articles
 
