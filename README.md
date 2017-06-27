@@ -134,7 +134,7 @@ A complete reference for android developers. Here you can find references about 
 - [Android TensorFlow Machine Learning Example](https://blog.mindorks.com/android-tensorflow-machine-learning-example-ff0e9b2654cc) - Building TensorFlow for Android.
 - [Creating Custom Model For Android Using TensorFlow](https://blog.mindorks.com/creating-custom-model-for-android-using-tensorflow-3f963d270bfb) - Building TensorFlow Model for Android.
 - [Using SnapHelper in RecyclerView](https://blog.mindorks.com/using-snaphelper-in-recyclerview-fc616b6833e8) - Using SnapHelper in RecyclerView.
-
+- [Software Engineering](https://blog.mindorks.com/software-engineering-101-for-front-end-developers-a99fda87c6bc) - Software Engineering 101 for Front-end Developers.
 
 ### TODO
 - Updating it on daily basis as much as possible, work in progess.
