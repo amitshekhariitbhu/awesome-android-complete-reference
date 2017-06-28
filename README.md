@@ -106,7 +106,6 @@ A complete reference for android developers. Here you can find references about 
 - [Android Mindorks Blog](https://blog.mindorks.com) - Android Mindorks Blog.
 - [Android Developers Blog](http://android-developers.blogspot.in/) - Android Developers Blog.
 - [Official Android Blog](https://android.googleblog.com/) - Official Android Blog.
-- [Android Blogs](https://github.com/vbauer/android-blogs) - List of blogs about Android.
 
 ### Guides And Tutorials
 
