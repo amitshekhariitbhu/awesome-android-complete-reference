@@ -91,6 +91,7 @@ A complete reference for android developers. Here you can find references about 
 - [Learn Kotlin - apply vs with](https://mindorks.com/blog/learn-kotlin-apply-vs-with) - Learn Kotlin - apply vs with
 - [Learn Kotlin - Extension Functions](https://mindorks.com/blog/learn-kotlin-extension-functions) - Learn Kotlin - Extension Functions
 - [Learn Kotlin - Data Class](https://mindorks.com/blog/learn-kotlin-data-class) - Learn Kotlin - Data Class
+- [Year Class Library](https://blog.mindorks.com/why-use-facebooks-android-device-year-class-library-e5f38a14a3b9) - Why use Facebook’s Android Device Year Class Library?
 
 ### News And Articles
 
