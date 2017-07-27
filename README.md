@@ -94,6 +94,7 @@ A complete reference for android developers. Here you can find references about 
 - [Learn Kotlin - Data Class](https://mindorks.com/blog/learn-kotlin-data-class) - Learn Kotlin - Data Class
 - [Year Class Library](https://blog.mindorks.com/why-use-facebooks-android-device-year-class-library-e5f38a14a3b9) - Why use Facebook’s Android Device Year Class Library?
 - [How to reduce APK size in android](https://blog.mindorks.com/how-to-reduce-apk-size-in-android-2f3713d2d662) - How to reduce APK size in android?
+- [Applying Proguard In An Android Application](https://mindorks.com/blog/applying-proguard-in-an-android-application) - Applying Proguard In An Android Application?
 
 ### News And Articles
 
