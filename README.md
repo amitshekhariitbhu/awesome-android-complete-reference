@@ -140,7 +140,7 @@ A complete reference for android developers. Here you can find references about 
 - [Software Engineering for Front-end Developers](https://blog.mindorks.com/software-engineering-101-for-front-end-developers-a99fda87c6bc) - Software Engineering 101 for Front-end Developers.
 
 ### TODO
-- Updating it on daily basis as much as possible, work in progess.
+- Updating it on daily basis as much as possible, work in progess[WIP].
 
 ### Found this project useful :heart:
 * Support by clicking the :star: button on the upper right of this page. :v:
