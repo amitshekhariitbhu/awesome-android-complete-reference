@@ -124,6 +124,7 @@ A complete reference for android developers. Here you can find references about 
 - [Udacity Tutorials](https://www.udacity.com/course/developing-android-apps--ud853) - Udacity Tutorials.
 - [Vogella Tutorials](http://www.vogella.com/tutorials/android.html) - Very good tutorials by Lars Vogel.
 - [Android Examples](https://github.com/nisrulz/android-examples) - Andriod Examples.
+- [Learn RxJava](https://mindorks.com/course/learn-rxjava) - RxJava Tutorials.
 - [Learn RxJava In The Best Way](https://blog.mindorks.com/a-complete-guide-to-learn-rxjava-b55c0cea3631) - Learn RxJava.
 - [Learn RxJava](https://github.com/amitshekhariitbhu/Fast-Android-Networking/wiki/Using-Fast-Android-Networking-Library-With-RxJava) - Simplest way to learn RxJava by example.
 - [RxJava2-Android-Samples](https://github.com/amitshekhariitbhu/RxJava2-Android-Samples) - Learning RxJava for Android by example.
