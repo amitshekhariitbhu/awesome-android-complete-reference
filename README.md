@@ -6,6 +6,9 @@
 A curated list of Android Complete References at one place.
 A complete reference for android developers. Here you can find references about everything you use while Android Development.
 
+### Learn Android Development
+- [How to learn Android Development](https://blog.mindorks.com/how-to-learn-android-development-f33dd6dba40d) - A complete guide to learn android app development.
+
 ### Android App Architecture
 - [Android-MVP-Architecture](https://github.com/MindorksOpenSource/android-mvp-architecture) - A complete android project based on MVP architecture.
 - [Android MVP Sample Application](https://github.com/amitshekhariitbhu/Android-MVP-Sample-Application) - A very basic android sample application on MVP architecture.
