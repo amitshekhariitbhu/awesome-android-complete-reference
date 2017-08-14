@@ -99,6 +99,7 @@ A complete reference for android developers. Here you can find references about 
 - [Year Class Library](https://blog.mindorks.com/why-use-facebooks-android-device-year-class-library-e5f38a14a3b9) - Why use Facebook’s Android Device Year Class Library?
 - [How to reduce APK size in android](https://blog.mindorks.com/how-to-reduce-apk-size-in-android-2f3713d2d662) - How to reduce APK size in android?
 - [Applying Proguard In An Android Application](https://mindorks.com/blog/applying-proguard-in-an-android-application) - How to apply Proguard in an Android application?
+- [Implementation Vs Api](https://blog.mindorks.com/implementation-vs-api-in-gradle-3-0-494c817a6fa) - Implementation Vs Api in Android Gradle plugin 3.0
 
 ### News And Articles
 
