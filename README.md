@@ -100,6 +100,7 @@ A complete reference for android developers. Here you can find references about 
 - [How to reduce APK size in android](https://blog.mindorks.com/how-to-reduce-apk-size-in-android-2f3713d2d662) - How to reduce APK size in android?
 - [Applying Proguard In An Android Application](https://mindorks.com/blog/applying-proguard-in-an-android-application) - How to apply Proguard in an Android application?
 - [Implementation Vs Api](https://blog.mindorks.com/implementation-vs-api-in-gradle-3-0-494c817a6fa) - Implementation Vs Api in Android Gradle plugin 3.0
+- [Android Studio Plugins](https://blog.mindorks.com/how-to-become-more-productive-in-android-with-android-studio-plugins-3beb3861fa7) - How to become more productive in android with android studio plugins
 
 ### News And Articles
 
