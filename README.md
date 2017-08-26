@@ -148,6 +148,7 @@ A complete reference for android developers. Here you can find references about 
 - [Software Engineering for Front-end Developers](https://blog.mindorks.com/software-engineering-101-for-front-end-developers-a99fda87c6bc) - Software Engineering 101 for Front-end Developers.
 - [Android Package Name Vs Application ID](https://blog.mindorks.com/android-package-name-vs-application-id-ad95b08815a6) - Android Package Name Vs Application ID.
 - [How The Android Image Loading Library Glide and Fresco Works?](https://blog.mindorks.com/how-the-android-image-loading-library-glide-and-fresco-works-962bc9d1cc40) - How The Android Image Loading Library Glide and Fresco Works?
+- [Interpolators in Android](https://blog.mindorks.com/understanding-interpolators-in-android-ce4e8d1d71cd) - Understanding Interpolators in Android.
 
 ### TODO
 - Updating it on daily basis as much as possible, work in progess[WIP].
