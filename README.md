@@ -9,6 +9,7 @@ A complete reference for android developers. Here you can find references about 
 ### Learn Android Development
 - [How to learn Android Development](https://blog.mindorks.com/how-to-learn-android-development-f33dd6dba40d) - A complete guide to learn android app development.
 - [Your Cheat Sheet For Android Interview](https://github.com/MindorksOpenSource/android-interview-questions) - Android Interview Questions.
+- [Learn Android MVP Architecture](https://mindorks.com/course/android-mvp-introduction) - Android MVP Course.
 
 ### Android App Architecture
 - [Android-MVP-Architecture](https://github.com/MindorksOpenSource/android-mvp-architecture) - A complete android project based on MVP architecture.
