@@ -99,7 +99,8 @@ A complete reference for android developers. Here you can find references about 
 - [Learn Kotlin - Data Class](https://mindorks.com/blog/learn-kotlin-data-class) - Learn Kotlin - Data Class
 - [Year Class Library](https://blog.mindorks.com/why-use-facebooks-android-device-year-class-library-e5f38a14a3b9) - Why use Facebook’s Android Device Year Class Library?
 - [How to reduce APK size in android](https://blog.mindorks.com/how-to-reduce-apk-size-in-android-2f3713d2d662) - How to reduce APK size in android?
-- [Applying Proguard In An Android Application](https://mindorks.com/blog/applying-proguard-in-an-android-application) - How to apply Proguard in an Android application?
+- [Android Studio Plugins](https://blog.mindorks.com/how-to-become-more-productive-in-android-with-android-studio-plugins-3beb3861fa7) - How to become more productive in android with android studio plugins
+- [APK Split](https://mindorks.com/blog/how-to-create-multiple-apk-files-for-android-application) - How to create multiple apk files for android application?
 - [Implementation Vs Api](https://blog.mindorks.com/implementation-vs-api-in-gradle-3-0-494c817a6fa) - Implementation Vs Api in Android Gradle plugin 3.0
 - [Android Studio Plugins](https://blog.mindorks.com/how-to-become-more-productive-in-android-with-android-studio-plugins-3beb3861fa7) - How to become more productive in android with android studio plugins
 
