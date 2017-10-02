@@ -89,7 +89,6 @@ A complete reference for android developers. Here you can find references about 
 - [Open Source Android App Codes](https://en.wikipedia.org/wiki/List_of_free_and_open-source_Android_applications) - List of Android Application which have open source code.
 - [Git Tips](https://github.com/git-tips/tips) - Useful git tips required while development.
 - [API Demo](https://play.google.com/store/apps/details?id=com.hmh.api&hl=en) - Api demo.
-- [Another API Demo](https://play.google.com/store/apps/details?id=com.touchboarder.android.api.demos&hl=en) - Another Api demo.
 - [Using StrictMode in Android](https://blog.mindorks.com/use-strictmode-to-find-things-you-did-by-accident-in-android-development-4cf0e7c8d997) - Use StrictMode To Find Things You Did By Accident In Android Development
 - [Android Activity Launchmode Explained](https://blog.mindorks.com/android-activity-launchmode-explained-cbc6cf996802) - Android Activity Launchmode
 - [Understanding the Task and the Back Stack in Android](https://blog.mindorks.com/android-task-and-back-stack-review-5017f2c18196) - Task and the Back Stack in Android
