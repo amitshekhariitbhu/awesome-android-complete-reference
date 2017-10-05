@@ -32,7 +32,7 @@ A complete reference for android developers. Here you can find references about 
 - [Fast Android Networking](https://github.com/amitshekhariitbhu/Fast-Android-Networking) - Android Networking is a powerful library for doing any type of networking in Android applications.
 - [Android Debug Database](https://github.com/amitshekhariitbhu/Android-Debug-Database) - Android Debug Database is a powerful library for debugging databases and shared preferences in Android applications.
 - [Glide Bitmap Pool](https://github.com/amitshekhariitbhu/GlideBitmapPool) - Glide Bitmap Pool is a memory management library for reusing the bitmap memory.
-- [NYBus](https://github.com/MindorksOpenSource/NYBus) - NYBus - A pub-sub library for Android and Java applications.
+- [NYBus](https://github.com/MindorksOpenSource/NYBus) - NYBus - A pub-sub library for Android and Java applications. It is implemented using RxJava(RxJava2).
 - [Android Awesome UI](https://github.com/wasabeef/awesome-android-ui) - The reference for Android 3rd party UI libraries.
 - [Square Libraries](http://square.github.io/#android) - Android Libraries by Square.
 - [Android Libraries By Facebook](https://code.facebook.com/projects/android) - Android 3rd Party Libraries By Facebook.
