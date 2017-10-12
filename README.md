@@ -103,7 +103,7 @@ A complete reference for android developers. Here you can find references about 
 - [APK Split](https://mindorks.com/blog/how-to-create-multiple-apk-files-for-android-application) - How to create multiple apk files for android application?
 - [Implementation Vs Api](https://blog.mindorks.com/implementation-vs-api-in-gradle-3-0-494c817a6fa) - Implementation Vs Api in Android Gradle plugin 3.0
 - [Android Studio Plugins](https://blog.mindorks.com/how-to-become-more-productive-in-android-with-android-studio-plugins-3beb3861fa7) - How to become more productive in android with android studio plugins
-- [New Dagger 2](https://blog.mindorks.com/the-new-dagger-2-android-injector-cbe7d55afa6a) - The New Dagger 2 Android Injector
+- [New Dagger 2 Android Injector](https://blog.mindorks.com/the-new-dagger-2-android-injector-cbe7d55afa6a) - The New Dagger 2 Android Injector
 
 
 ### News And Articles
