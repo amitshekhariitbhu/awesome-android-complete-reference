@@ -139,6 +139,7 @@ A complete reference for android developers. Here you can find references about 
 - [Learn RxJava](https://github.com/amitshekhariitbhu/Fast-Android-Networking/wiki/Using-Fast-Android-Networking-Library-With-RxJava) - Simplest way to learn RxJava by example.
 - [RxJava2-Android-Samples](https://github.com/amitshekhariitbhu/RxJava2-Android-Samples) - Learning RxJava for Android by example.
 - [Learning RxJava Subject by example](https://blog.mindorks.com/understanding-rxjava-subject-publish-replay-behavior-and-async-subject-224d663d452f) - Understanding RxJava Subject — Publish, Replay, Behavior and Async Subject.
+- [Implement Search Using RxJava Operators](https://blog.mindorks.com/implement-search-using-rxjava-operators-c8882b64fe1d) - Implement Search Using RxJava Operators.
 - [RxJava-Android-Samples](https://github.com/kaushikgopal/RxJava-Android-Samples) - Learning RxJava for Android by example.
 - [Learn Dagger2](https://blog.mindorks.com/a-complete-guide-to-learn-dagger-2-b4c7a570d99c) - A Complete Guide To Learn Dagger 2.
 - [Learn Kotlin](https://blog.mindorks.com/a-complete-guide-to-learn-kotlin-for-android-development-b1e5d23cc2d8) - A Complete Guide To Learn Kotlin.
