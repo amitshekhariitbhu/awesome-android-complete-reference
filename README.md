@@ -156,6 +156,8 @@ A complete reference for android developers. Here you can find references about 
 - [Using interpolators in Android](https://blog.mindorks.com/understanding-interpolators-in-android-ce4e8d1d71cd) - Understanding Interpolators in Android.
 - [Powerful Android ORM: greenDAO 3 Tutorial](https://mindorks.com/blog/powerful-android-orm-greendao-3-tutorial) - Powerful Android ORM: greenDAO 3 Tutorial.
 - [Learn Kotlin while developing an Android App](https://android.jlelse.eu/learn-kotlin-while-developing-an-android-app-introduction-567e21ff9664) - Great Kotlin tutorial while developing real app.
+- [Practical Data Structures Guide for Android developers
+](https://blog.mindorks.com/practical-data-structures-guide-for-android-developers-73fdec190802) - Practical Data Structures Guide for Android developers.
 
 ### TODO
 - Updating it on daily basis as much as possible, work in progess[WIP].
