@@ -158,6 +158,7 @@ A complete reference for android developers. Here you can find references about 
 - [Learn Kotlin while developing an Android App](https://android.jlelse.eu/learn-kotlin-while-developing-an-android-app-introduction-567e21ff9664) - Great Kotlin tutorial while developing real app.
 - [Practical Data Structures Guide for Android developers
 ](https://blog.mindorks.com/practical-data-structures-guide-for-android-developers-73fdec190802) - Practical Data Structures Guide for Android developers.
+- [Learn Kotlin - from Java to Kotlin](https://fabiomsr.github.io/from-java-to-kotlin/) - From Java to Kotlin Cheat Sheet
 
 ### TODO
 - Updating it on daily basis as much as possible, work in progess[WIP].
