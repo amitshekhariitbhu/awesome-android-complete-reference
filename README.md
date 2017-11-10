@@ -160,6 +160,7 @@ A complete reference for android developers. Here you can find references about 
 ](https://blog.mindorks.com/practical-data-structures-guide-for-android-developers-73fdec190802) - Practical Data Structures Guide for Android developers.
 - [Learn Kotlin - from Java to Kotlin](https://fabiomsr.github.io/from-java-to-kotlin/) - From Java to Kotlin Cheat Sheet
 - [Glide - Getting Started](https://futurestud.io/tutorials/glide-getting-started) - Learn how to use Glide, an image loading library
+- [How Voice And Video Call Works?](https://blog.mindorks.com/how-voice-and-video-call-works-b0896aa0a630) - How Voice And Video Call Works?
 
 ### TODO
 - Updating it on daily basis as much as possible, work in progess[WIP].
