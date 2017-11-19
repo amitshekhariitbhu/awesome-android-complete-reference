@@ -32,6 +32,7 @@ A complete reference for android developers. Here you can find references about 
 - [Snowdream Android Awesome](https://github.com/snowdream/awesome-android) - The reference for 3rd party libraries.
 - [Fast Android Networking](https://github.com/amitshekhariitbhu/Fast-Android-Networking) - Android Networking is a powerful library for doing any type of networking in Android applications.
 - [Android Debug Database](https://github.com/amitshekhariitbhu/Android-Debug-Database) - Android Debug Database is a powerful library for debugging databases and shared preferences in Android applications.
+- [PRDownloader](https://github.com/MindorksOpenSource/PRDownloader) - PRDownloader - A file downloader library for Android with pause and resume support.
 - [Glide Bitmap Pool](https://github.com/amitshekhariitbhu/GlideBitmapPool) - Glide Bitmap Pool is a memory management library for reusing the bitmap memory.
 - [NYBus](https://github.com/MindorksOpenSource/NYBus) - NYBus - A pub-sub library for Android and Java applications. It is implemented using RxJava(RxJava2).
 - [Android Awesome UI](https://github.com/wasabeef/awesome-android-ui) - The reference for Android 3rd party UI libraries.
