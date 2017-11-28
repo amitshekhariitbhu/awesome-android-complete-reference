@@ -162,6 +162,7 @@ A complete reference for android developers. Here you can find references about 
 - [Learn Kotlin - from Java to Kotlin](https://fabiomsr.github.io/from-java-to-kotlin/) - From Java to Kotlin Cheat Sheet
 - [Glide - Getting Started](https://futurestud.io/tutorials/glide-getting-started) - Learn how to use Glide, an image loading library
 - [How Voice And Video Call Works?](https://blog.mindorks.com/how-voice-and-video-call-works-b0896aa0a630) - How Voice And Video Call Works?
+- [PRDownloader ](https://blog.mindorks.com/prdownloader-a-file-downloader-library-for-android-b9c5fc56a640) - A File Downloader Library For Android
 
 ### TODO
 - Updating it on daily basis as much as possible, work in progess[WIP].
