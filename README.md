@@ -40,7 +40,6 @@ A complete reference for android developers. Here you can find references about 
 - [Android Libraries By Facebook](https://code.facebook.com/projects/android) - Android 3rd Party Libraries By Facebook.
 - [Android Libraries](https://android-libraries.zeef.com/jurgen.stumpp) - Another reference for 3rd party libraries.
 - [Android Libraries](http://p.codekk.com/) - Another reference for 3rd party libraries.
-- [DevAppsDirect - Demo Market](https://play.google.com/store/apps/details?id=com.inappsquared.devappsdirect) - App that demonstrates different libraries.
 - [Awesome Android @LibHunt](https://android.libhunt.com/) - Your go-to Android Toolbox.
 - [Android Kotlin Libraries](https://github.com/mcxiaoke/awesome-kotlin) - A reference for 3rd party Kotlin libraries.
 - [Gradle Please](http://gradleplease.appspot.com/) - Gradle Dependencies for Libraries.
