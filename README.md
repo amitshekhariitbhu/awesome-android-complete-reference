@@ -12,7 +12,7 @@ A complete reference for android developers. Here you can find references about 
 - [Your Cheat Sheet For Android Interview](https://github.com/MindorksOpenSource/android-interview-questions) - Android Interview Questions.
 - [Become a complete Android developer](https://blog.mindorks.com/how-to-become-a-complete-android-developer-110d7ef91f2a) - How to become a complete Android developer?
 - [Learn Android MVP Architecture](https://mindorks.com/course/android-mvp-introduction) - Android MVP Course. Learn MVP in the simplest way.
-- [Learn RxJava](https://mindorks.com/course/learn-rxjava) - RxJava Tutorials.
+- [Learn RxJava](https://mindorks.com/course/learn-rxjava) - RxJava Tutorials - Learn RxJava By Examples.
 - [I have 1 year of experience in Android. Now What?](https://blog.mindorks.com/i-have-1-year-of-experience-in-android-now-what-52d955b08027) - I have 1 year of experience in Android. Now What?
 
 ### Android App Architecture
