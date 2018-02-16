@@ -20,9 +20,9 @@ A complete reference for android developers. Here you can find references about 
 - [Android MVP Sample Application](https://github.com/amitshekhariitbhu/Android-MVP-Sample-Application) - A very basic android sample application on MVP architecture.
 - [Android MVP Interactor](https://github.com/MindorksOpenSource/android-mvp-interactor-architecture) - A complete android project based on MVP architecture enhanced with Interactors and Repositories.
 - [Blog Post on MVP Architecture](https://blog.mindorks.com/essential-guide-for-designing-your-android-app-architecture-mvp-part-1-74efaf1cda40) - Essential Guide For Designing Your Android App Architecture.
-- [Android-MVVM-Architecture](https://github.com/MindorksOpenSource/android-mvvm-architecture) - Example Project for MVVM architecture
-- [MVVM on Android using RxJava and Data Binding](https://github.com/manas-chaudhari/android-mvvm) - Sample project to demonstrate a coding pattern based on MVVM
-- [Architecture Components](https://blog.mindorks.com/android-mvp-with-new-architecture-components-7627b7cb8491) - Android MVP with new Architecture Components
+- [Android-MVVM-Architecture](https://github.com/MindorksOpenSource/android-mvvm-architecture) - Example Project for MVVM architecture.
+- [MVVM on Android using RxJava and Data Binding](https://github.com/manas-chaudhari/android-mvvm) - Sample project to demonstrate a coding pattern based on MVVM.
+- [Architecture Components](https://blog.mindorks.com/android-mvp-with-new-architecture-components-7627b7cb8491) - Android MVP with new Architecture Components.
 
 ### Third Party Libraries
 
