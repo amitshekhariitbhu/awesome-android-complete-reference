@@ -23,6 +23,7 @@ A complete reference for android developers. Here you can find references about 
 - [Android-MVVM-Architecture](https://github.com/MindorksOpenSource/android-mvvm-architecture) - Example Project for MVVM architecture.
 - [MVVM on Android using RxJava and Data Binding](https://github.com/manas-chaudhari/android-mvvm) - Sample project to demonstrate a coding pattern based on MVVM.
 - [Architecture Components](https://blog.mindorks.com/android-mvp-with-new-architecture-components-7627b7cb8491) - Android MVP with new Architecture Components.
+- [Android Clean Architecture - Kotlin](https://github.com/patrickyin/clean-architecture-android-kotlin) - A base project using the Uncle Bob's clean architecture with Kotlin language and the latest Android technologies.
 
 ### Third Party Libraries
 
