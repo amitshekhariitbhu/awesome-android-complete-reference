@@ -50,7 +50,7 @@ A complete reference for android developers. Here you can find references about 
 - [Android UI/UX](http://androidniceties.tumblr.com/) - The reference for Android Best UI/UX.
 - [Android Icon Generator](https://romannurik.github.io/AndroidAssetStudio/) - Generator for icons and other assets.
 - [Material Design Icons](https://materialdesignicons.com/) - Material Design Icons
-- [Up Labs (Material Up)](http://www.materialup.com/) - MaterialUp curates the best of Material Design
+- [Up Labs (Material Up)](https://www.uplabs.com/android) - Up Laps curates the best of Material Design
 - [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/) - A collection of tools to easily generate assets such as launcher icons for your Android app.
 
 ### Performance And Optimization
