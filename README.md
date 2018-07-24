@@ -132,7 +132,8 @@ A complete reference for android developers. Here you can find references about 
 - [Google Code Lab](https://codelabs.developers.google.com/?cat=Android) - Google code lab.
 - [Android Development](https://developer.android.com/index.html) - Android Development complete guide from Google.
 - [Android Guides](https://github.com/codepath/android_guides) - Extensive Open-Source Guides for Android Developers.
-- [Udacity Tutorials](https://www.udacity.com/course/developing-android-apps--ud853) - Udacity Tutorials.
+- [Udacity Tutorials - Fundamentals](https://www.udacity.com/course/developing-android-apps--ud853) - Udacity Tutorial covering the core topics of Android Development.
+- [Udacity Tutorials - Advanced](https://www.udacity.com/course/advanced-android-app-development--ud855) - Udacity Tutorial covering advanced topics of Android Development.
 - [Vogella Tutorials](http://www.vogella.com/tutorials/android.html) - Very good tutorials by Lars Vogel.
 - [Android Examples](https://github.com/nisrulz/android-examples) - Andriod Examples.
 - [Learn RxJava](https://mindorks.com/course/learn-rxjava) - RxJava Tutorials.
