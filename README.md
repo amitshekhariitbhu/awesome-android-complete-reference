@@ -167,6 +167,7 @@ A complete reference for android developers. Here you can find references about 
 - [Understanding Types Of Observables In RxJava](https://blog.mindorks.com/understanding-types-of-observables-in-rxjava-6c3a2d0819c8) - Understanding Types Of Observables In RxJava
 - [RxJava Operator - Map Vs FlatMap](https://medium.com/mindorks/rxjava-operator-map-vs-flatmap-427c09678784) - RxJava Operator - Map Vs FlatMap
 - [Android App Release Checklist For The Production Launch](https://medium.com/mindorks/android-app-release-checklist-for-the-production-launch-4095f46d04fa) - Checklist For The Production Launch
+- [Android TensorFlow Lite Machine Learning Example](https://medium.com/mindorks/android-tensorflow-lite-machine-learning-example-b06ca29226b6) - Android TensorFlow Lite Machine Learning Example
 
 ### TODO
 - Updating it on daily basis as much as possible, work in progess[WIP].
