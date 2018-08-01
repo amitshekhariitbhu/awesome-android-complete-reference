@@ -165,6 +165,7 @@ A complete reference for android developers. Here you can find references about 
 - [How Voice And Video Call Works?](https://blog.mindorks.com/how-voice-and-video-call-works-b0896aa0a630) - How Voice And Video Call Works?
 - [PRDownloader](https://blog.mindorks.com/prdownloader-a-file-downloader-library-for-android-b9c5fc56a640) - A File Downloader Library For Android
 - [Understanding Types Of Observables In RxJava](https://blog.mindorks.com/understanding-types-of-observables-in-rxjava-6c3a2d0819c8) - Understanding Types Of Observables In RxJava
+- [RxJava Operator - Map Vs FlatMap](https://medium.com/mindorks/rxjava-operator-map-vs-flatmap-427c09678784) - RxJava Operator - Map Vs FlatMap
 
 ### TODO
 - Updating it on daily basis as much as possible, work in progess[WIP].
