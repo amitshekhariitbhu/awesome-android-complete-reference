@@ -27,10 +27,8 @@ A complete reference for android developers. Here you can find references about 
 
 ### Third Party Libraries
 
+- [Mindorks Android Store](https://mindorks.com/android/store) - Largest Reference for 3rd party libraries.
 - [Mindorks Open Source Projects](https://mindorks.com/open-source-projects) - Mindorks Open Source Projects
-- [Android Arsenal](http://android-arsenal.com/) - Largest Reference for 3rd party libraries.
-- [JStumpp Android Awesome](https://github.com/JStumpp/awesome-android) - The reference for 3rd party libraries.
-- [Snowdream Android Awesome](https://github.com/snowdream/awesome-android) - The reference for 3rd party libraries.
 - [Fast Android Networking](https://github.com/amitshekhariitbhu/Fast-Android-Networking) - Fast Android Networking is a powerful library for doing any type of networking in Android applications.
 - [Android Debug Database](https://github.com/amitshekhariitbhu/Android-Debug-Database) - Android Debug Database is a powerful library for debugging databases and shared preferences in Android applications.
 - [PRDownloader](https://github.com/MindorksOpenSource/PRDownloader) - PRDownloader - A file downloader library for Android with pause and resume support.
