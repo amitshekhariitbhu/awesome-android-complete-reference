@@ -92,14 +92,14 @@ A complete reference for android developers. Here you can find references about 
 - [Understanding the Task and the Back Stack in Android](https://blog.mindorks.com/android-task-and-back-stack-review-5017f2c18196) - Task and the Back Stack in Android
 - [Understanding Context In Android](https://blog.mindorks.com/understanding-context-in-android-application-330913e32514) - Use Correct Context To Avoid Memory Leaks
 - [Improve Your Android Coding Through Annotations](https://blog.mindorks.com/improve-your-android-coding-through-annotations-26b3273c137a) - Improve Your Android Coding Through Annotations
-- [Learn Kotlin - lateinit vs lazy](https://mindorks.com/blog/learn-kotlin-lateinit-vs-lazy) - Learn Kotlin - lateinit vs lazy
-- [Learn Kotlin - apply vs with](https://mindorks.com/blog/learn-kotlin-apply-vs-with) - Learn Kotlin - apply vs with
-- [Learn Kotlin - Extension Functions](https://mindorks.com/blog/learn-kotlin-extension-functions) - Learn Kotlin - Extension Functions
-- [Learn Kotlin - Data Class](https://mindorks.com/blog/learn-kotlin-data-class) - Learn Kotlin - Data Class
+- [Learn Kotlin - lateinit vs lazy](https://blog.mindorks.com/learn-kotlin-lateinit-vs-lazy) - Learn Kotlin - lateinit vs lazy
+- [Learn Kotlin - apply vs with](https://blog.mindorks.com/learn-kotlin-apply-vs-with) - Learn Kotlin - apply vs with
+- [Learn Kotlin - Extension Functions](https://blog.mindorks.com/learn-kotlin-extension-functions) - Learn Kotlin - Extension Functions
+- [Learn Kotlin - Data Class](https://blog.mindorks.com/learn-kotlin-data-class) - Learn Kotlin - Data Class
 - [Year Class Library](https://blog.mindorks.com/why-use-facebooks-android-device-year-class-library-e5f38a14a3b9) - Why use Facebook’s Android Device Year Class Library?
 - [How to reduce APK size in android](https://blog.mindorks.com/how-to-reduce-apk-size-in-android-2f3713d2d662) - How to reduce APK size in android?
 - [Android Studio Plugins](https://blog.mindorks.com/how-to-become-more-productive-in-android-with-android-studio-plugins-3beb3861fa7) - How to become more productive in android with android studio plugins
-- [APK Split](https://mindorks.com/blog/how-to-create-multiple-apk-files-for-android-application) - How to create multiple apk files for android application?
+- [APK Split](https://blog.mindorks.com/how-to-create-multiple-apk-files-for-android-application) - How to create multiple apk files for android application?
 - [Implementation Vs Api](https://blog.mindorks.com/implementation-vs-api-in-gradle-3-0-494c817a6fa) - Implementation Vs Api in Android Gradle plugin 3.0
 - [Android Studio Plugins](https://blog.mindorks.com/how-to-become-more-productive-in-android-with-android-studio-plugins-3beb3861fa7) - How to become more productive in android with android studio plugins
 - [New Dagger 2 Android Injector](https://blog.mindorks.com/the-new-dagger-2-android-injector-cbe7d55afa6a) - The New Dagger 2 Android Injector
@@ -156,7 +156,7 @@ A complete reference for android developers. Here you can find references about 
 - [Android Package Name Vs Application ID](https://blog.mindorks.com/android-package-name-vs-application-id-ad95b08815a6) - Android Package Name Vs Application ID.
 - [How The Android Image Loading Library Glide and Fresco Works?](https://blog.mindorks.com/how-the-android-image-loading-library-glide-and-fresco-works-962bc9d1cc40) - How The Android Image Loading Library Glide and Fresco Works?
 - [Using interpolators in Android](https://blog.mindorks.com/understanding-interpolators-in-android-ce4e8d1d71cd) - Understanding Interpolators in Android.
-- [Powerful Android ORM: greenDAO 3 Tutorial](https://mindorks.com/blog/powerful-android-orm-greendao-3-tutorial) - Powerful Android ORM: greenDAO 3 Tutorial.
+- [Powerful Android ORM: greenDAO 3 Tutorial](https://blog.mindorks.com/powerful-android-orm-greendao-3-tutorial) - Powerful Android ORM: greenDAO 3 Tutorial.
 - [Learn Kotlin while developing an Android App](https://android.jlelse.eu/learn-kotlin-while-developing-an-android-app-introduction-567e21ff9664) - Great Kotlin tutorial while developing real app.
 - [Practical Data Structures Guide for Android developers
 ](https://blog.mindorks.com/practical-data-structures-guide-for-android-developers-73fdec190802) - Practical Data Structures Guide for Android developers.
