@@ -8,6 +8,7 @@ A curated list of Android Complete References at one place.
 A complete reference for android developers. Here you can find references about everything you use while Android Development.
 
 ### Learn Android Development
+- [A Roadmap To Become A Better Android Developer](https://medium.com/mindorks/a-roadmap-to-become-a-better-android-developer-3038cf7f8c8d) - Roadmap for Android Developer.
 - [How to learn Android Development](https://blog.mindorks.com/how-to-learn-android-development-f33dd6dba40d) - A complete guide to learn android app development.
 - [Your Cheat Sheet For Android Interview](https://github.com/MindorksOpenSource/android-interview-questions) - Android Interview Questions.
 - [Become a complete Android developer](https://blog.mindorks.com/how-to-become-a-complete-android-developer-110d7ef91f2a) - How to become a complete Android developer?
