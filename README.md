@@ -25,6 +25,7 @@ A complete reference for android developers. Here you can find references about 
 - [MVVM on Android using RxJava and Data Binding](https://github.com/manas-chaudhari/android-mvvm) - Sample project to demonstrate a coding pattern based on MVVM.
 - [Architecture Components](https://blog.mindorks.com/android-mvp-with-new-architecture-components-7627b7cb8491) - Android MVP with new Architecture Components.
 - [Android Clean Architecture - Kotlin](https://github.com/patrickyin/clean-architecture-android-kotlin) - A base project using the Uncle Bob's clean architecture with Kotlin language and the latest Android technologies.
+- [Android MVP Example: Kotlin + Dagger2 + Retrofit](https://medium.com/@ogulcan/kotlin-mvp-dagger-2-retrofit-sample-android-application-e6fe3af7acd) - This example application implements MVP architecture with using Kotlin, Dagger2, RxJava2 and also inject, constraint-layout, typicode api.
 
 ### Third Party Libraries
 
