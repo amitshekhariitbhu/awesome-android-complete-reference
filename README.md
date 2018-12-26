@@ -114,6 +114,7 @@ A complete reference for android developers. Here you can find references about 
 - [Android Development Useful Tools](https://blog.mindorks.com/android-development-useful-tools-fd73283e82e3) - Android Development Useful Tools
 - [Android Things](https://blog.mindorks.com/google-released-the-developer-preview-of-android-things-iot-75cb49b9ce24) - About Android Things
 - [Why Every Developer Should Write Blog](https://blog.mindorks.com/why-every-developer-should-write-blog-b2597116ffed) - Why Every Developer Should Write Blog
+- [All About Android Development In 2018](https://blog.mindorks.com/all-about-android-development-in-2018) - All About Android Development In 2018
 
 ### Blogs
 
