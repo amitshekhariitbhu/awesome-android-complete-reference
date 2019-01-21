@@ -171,6 +171,7 @@ A complete reference for android developers. Here you can find references about 
 - [PRDownloader](https://blog.mindorks.com/prdownloader-a-file-downloader-library-for-android-b9c5fc56a640) - A File Downloader Library For Android
 - [Understanding Types Of Observables In RxJava](https://blog.mindorks.com/understanding-types-of-observables-in-rxjava-6c3a2d0819c8) - Understanding Types Of Observables In RxJava
 - [RxJava Operator - Map Vs FlatMap](https://medium.com/mindorks/rxjava-operator-map-vs-flatmap-427c09678784) - RxJava Operator - Map Vs FlatMap
+- [RxJava Operator - Concat Vs Merge](https://blog.mindorks.com/rxjava-operator-concat-vs-merge) - RxJava Operator - Concat Vs Merge
 - [Android App Release Checklist For The Production Launch](https://medium.com/mindorks/android-app-release-checklist-for-the-production-launch-4095f46d04fa) - Checklist For The Production Launch
 - [How to release a bug-free Android App in production?](https://medium.com/mindorks/how-to-release-a-bug-free-android-app-in-production-352fb0371fd8) - How to release a bug-free Android App in production?
 - [Android TensorFlow Lite Machine Learning Example](https://medium.com/mindorks/android-tensorflow-lite-machine-learning-example-b06ca29226b6) - Android TensorFlow Lite Machine Learning Example
