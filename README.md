@@ -147,6 +147,7 @@ A complete reference for android developers. Here you can find references about 
 - [RxJava2-Android-Samples](https://github.com/amitshekhariitbhu/RxJava2-Android-Samples) - Learning RxJava for Android by example.
 - [Learning RxJava Subject by example](https://blog.mindorks.com/understanding-rxjava-subject-publish-replay-behavior-and-async-subject-224d663d452f) - Understanding RxJava Subject — Publish, Replay, Behavior and Async Subject.
 - [Implement Search Using RxJava Operators](https://blog.mindorks.com/implement-search-using-rxjava-operators-c8882b64fe1d) - Implement Search Using RxJava Operators - `debounce`, `filter`, `distinctUntilChanged`, `switchMap`.
+- [Video: Implement Search Using RxJava Operators](https://www.youtube.com/watch?v=aDXq1YmZSN4) - Video: Implement Search Using RxJava Operators - `debounce`, `filter`, `distinctUntilChanged`, `switchMap`.
 - [RxJava-Android-Samples](https://github.com/kaushikgopal/RxJava-Android-Samples) - Learning RxJava for Android by example.
 - [Learn Dagger2](https://blog.mindorks.com/a-complete-guide-to-learn-dagger-2-b4c7a570d99c) - A Complete Guide To Learn Dagger 2.
 - [Learn Kotlin](https://blog.mindorks.com/a-complete-guide-to-learn-kotlin-for-android-development-b1e5d23cc2d8) - A Complete Guide To Learn Kotlin.
@@ -171,6 +172,7 @@ A complete reference for android developers. Here you can find references about 
 - [PRDownloader](https://blog.mindorks.com/prdownloader-a-file-downloader-library-for-android-b9c5fc56a640) - A File Downloader Library For Android
 - [Understanding Types Of Observables In RxJava](https://blog.mindorks.com/understanding-types-of-observables-in-rxjava-6c3a2d0819c8) - Understanding Types Of Observables In RxJava
 - [RxJava Operator - Map Vs FlatMap](https://medium.com/mindorks/rxjava-operator-map-vs-flatmap-427c09678784) - RxJava Operator - Map Vs FlatMap
+- [Video: RxJava Operator - Map Vs FlatMap](https://www.youtube.com/watch?v=MEfft76hWPo) - Video: RxJava Operator - Map Vs FlatMap
 - [RxJava Operator - Concat Vs Merge](https://blog.mindorks.com/rxjava-operator-concat-vs-merge) - RxJava Operator - Concat Vs Merge
 - [Android App Release Checklist For The Production Launch](https://medium.com/mindorks/android-app-release-checklist-for-the-production-launch-4095f46d04fa) - Checklist For The Production Launch
 - [How to release a bug-free Android App in production?](https://medium.com/mindorks/how-to-release-a-bug-free-android-app-in-production-352fb0371fd8) - How to release a bug-free Android App in production?
