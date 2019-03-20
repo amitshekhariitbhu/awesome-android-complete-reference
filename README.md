@@ -179,6 +179,7 @@ A complete reference for android developers. Here you can find references about 
 - [How to release a bug-free Android App in production?](https://medium.com/mindorks/how-to-release-a-bug-free-android-app-in-production-352fb0371fd8) - How to release a bug-free Android App in production?
 - [Android TensorFlow Lite Machine Learning Example](https://medium.com/mindorks/android-tensorflow-lite-machine-learning-example-b06ca29226b6) - Android TensorFlow Lite Machine Learning Example
 - [Kotlin Lambda, Higher Order Function, Extension Function](https://www.youtube.com/watch?v=eB3lAL8UK9s) - Kotlin Lambda, Higher Order Function, Extension Function
+- [Kotlin Lambda, Higher Order Function - Blog](https://blog.mindorks.com/understanding-higher-order-functions-and-lambdas-in-kotlin) - Kotlin Lambda, Higher Order Function
 
 ### TODO
 - Updating it on daily basis as much as possible, work in progess[WIP].
