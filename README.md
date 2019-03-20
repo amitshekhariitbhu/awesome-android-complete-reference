@@ -175,6 +175,7 @@ A complete reference for android developers. Here you can find references about 
 - [RxJava Operator - Map Vs FlatMap](https://medium.com/mindorks/rxjava-operator-map-vs-flatmap-427c09678784) - RxJava Operator - Map Vs FlatMap
 - [Video: RxJava Operator - Map Vs FlatMap](https://www.youtube.com/watch?v=MEfft76hWPo) - Video: RxJava Operator - Map Vs FlatMap
 - [RxJava Operator - Concat Vs Merge](https://blog.mindorks.com/rxjava-operator-concat-vs-merge) - RxJava Operator - Concat Vs Merge
+- [Understanding RxJava Zip Operator With Example](https://blog.mindorks.com/understanding-rxjava-zip-operator-with-example) - RxJava Operator - Zip
 - [Android App Release Checklist For The Production Launch](https://medium.com/mindorks/android-app-release-checklist-for-the-production-launch-4095f46d04fa) - Checklist For The Production Launch
 - [How to release a bug-free Android App in production?](https://medium.com/mindorks/how-to-release-a-bug-free-android-app-in-production-352fb0371fd8) - How to release a bug-free Android App in production?
 - [Android TensorFlow Lite Machine Learning Example](https://medium.com/mindorks/android-tensorflow-lite-machine-learning-example-b06ca29226b6) - Android TensorFlow Lite Machine Learning Example
