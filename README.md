@@ -112,6 +112,7 @@ A complete reference for android developers. Here you can find references about 
 - [What are Coroutines in Kotlin?](https://blog.mindorks.com/what-are-coroutines-in-kotlin-bf4fecd476e9) - What are Coroutines in Kotlin?
 - [Implement Pagination In RecyclerView Using RxJava Operators](https://medium.com/mindorks/implement-pagination-in-recyclerview-using-rxjava-operators-686fb202b9dc) - Pagination In RecyclerView
 - [Implement Caching In Android Using RxJava Operators](https://blog.mindorks.com/implement-caching-in-android-using-rxjava-operators) - Caching Using RxJava Operators
+- [Understanding RxJava Timer, Delay, and Interval Operators](https://blog.mindorks.com/understanding-rxjava-timer-delay-and-interval-operators) - Understanding RxJava Timer, Delay, and Interval Operators
 
 ### News And Articles
 
@@ -124,9 +125,9 @@ A complete reference for android developers. Here you can find references about 
 
 ### Blogs
 
-- [Mindorks Blog](https://mindorks.com/blogs) - Mindorks Blog.
+- [Android MindOrks Blog](https://blog.mindorks.com) - Android Mindorks Blog.
+- [Android MindOrks Medium Blog](https://medium.com/mindorks) - Android MindOrks Medium Blog.
 - [Android Medium Blog](https://medium.com/@amitshekhar) - Android Medium Blog.
-- [Android Mindorks Blog](https://blog.mindorks.com) - Android Mindorks Blog.
 - [Android Developers Blog](http://android-developers.blogspot.in/) - Android Developers Blog.
 - [Official Android Blog](https://android.googleblog.com/) - Official Android Blog.
 
