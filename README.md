@@ -113,6 +113,7 @@ A complete reference for android developers. Here you can find references about 
 - [Implement Pagination In RecyclerView Using RxJava Operators](https://medium.com/mindorks/implement-pagination-in-recyclerview-using-rxjava-operators-686fb202b9dc) - Pagination In RecyclerView
 - [Implement Caching In Android Using RxJava Operators](https://blog.mindorks.com/implement-caching-in-android-using-rxjava-operators) - Caching Using RxJava Operators
 - [Understanding RxJava Timer, Delay, and Interval Operators](https://blog.mindorks.com/understanding-rxjava-timer-delay-and-interval-operators) - Understanding RxJava Timer, Delay, and Interval Operators
+- [Understanding RxJava Defer Operator](https://blog.mindorks.com/understanding-rxjava-defer-operator) - Understanding RxJava Defer Operator
 
 ### News And Articles
 
