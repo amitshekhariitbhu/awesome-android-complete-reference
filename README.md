@@ -114,6 +114,7 @@ A complete reference for android developers. Here you can find references about 
 - [Implement Caching In Android Using RxJava Operators](https://blog.mindorks.com/implement-caching-in-android-using-rxjava-operators) - Caching Using RxJava Operators
 - [Understanding RxJava Timer, Delay, and Interval Operators](https://blog.mindorks.com/understanding-rxjava-timer-delay-and-interval-operators) - Understanding RxJava Timer, Delay, and Interval Operators
 - [Understanding RxJava Defer Operator](https://blog.mindorks.com/understanding-rxjava-defer-operator) - Understanding RxJava Defer Operator
+- [Understanding RxJava Create and fromCallable Operator](https://blog.mindorks.com/understanding-rxjava-create-and-fromcallable-operator) - Understanding RxJava Create and fromCallable Operator
 
 ### News And Articles
 
