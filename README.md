@@ -186,6 +186,7 @@ A complete reference for android developers. Here you can find references about 
 - [Android TensorFlow Lite Machine Learning Example](https://medium.com/mindorks/android-tensorflow-lite-machine-learning-example-b06ca29226b6) - Android TensorFlow Lite Machine Learning Example
 - [Kotlin Lambda, Higher Order Function, Extension Function](https://www.youtube.com/watch?v=eB3lAL8UK9s) - Kotlin Lambda, Higher Order Function, Extension Function
 - [Kotlin Lambda, Higher Order Function - Blog](https://blog.mindorks.com/understanding-higher-order-functions-and-lambdas-in-kotlin) - Kotlin Lambda, Higher Order Function
+- [Understanding inline, noinline, and crossinline in Kotlin](https://blog.mindorks.com/understanding-inline-noinline-and-crossinline-in-kotlin) - Understanding inline, noinline, and crossinline in Kotlin
 
 ### TODO
 - Updating it on daily basis as much as possible, work in progess[WIP].
