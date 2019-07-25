@@ -12,6 +12,7 @@ A complete reference for android developers. Here you can find references about 
 - [MindOrks Android Online Course For Beginners](https://bootcamp.mindorks.com/android-training-for-beginners) - Android Online Course for Beginners.
 - [Learning Android Development - A Practical Guide](https://medium.com/mindorks/learning-android-development-in-2019-a-practical-guide-ddc71e008696) - Learning Android Development - A Practical Guide.
 - [A Roadmap To Become A Better Android Developer](https://medium.com/mindorks/a-roadmap-to-become-a-better-android-developer-3038cf7f8c8d) - Roadmap for Android Developer.
+- [Step By Step Guide To Learn Android App Development](https://mindorks.com/step-by-step-guide-to-learn-android-app-development) - Step By Step Guide To Learn Android App Development.
 - [How to learn Android Development](https://blog.mindorks.com/how-to-learn-android-development-f33dd6dba40d) - A complete guide to learn android app development.
 - [Your Cheat Sheet For Android Interview](https://github.com/MindorksOpenSource/android-interview-questions) - Android Interview Questions.
 - [Become a complete Android developer](https://blog.mindorks.com/how-to-become-a-complete-android-developer-110d7ef91f2a) - How to become a complete Android developer?
