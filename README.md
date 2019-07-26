@@ -8,13 +8,20 @@ A curated list of Android Complete References at one place.
 A complete reference for android developers. Here you can find references about everything you use while Android Development.
 
 ### Learn Android Development
+- [MindOrks Android Online Course For Professional](https://bootcamp.mindorks.com) - Android Online Course for Professional.
+- [MindOrks Android Online Course For Beginners](https://bootcamp.mindorks.com/android-training-for-beginners) - Android Online Course for Beginners.
+- [Learning Android Development - A Practical Guide](https://medium.com/mindorks/learning-android-development-in-2019-a-practical-guide-ddc71e008696) - Learning Android Development - A Practical Guide.
 - [A Roadmap To Become A Better Android Developer](https://medium.com/mindorks/a-roadmap-to-become-a-better-android-developer-3038cf7f8c8d) - Roadmap for Android Developer.
+- [Step By Step Guide To Learn Android App Development](https://mindorks.com/step-by-step-guide-to-learn-android-app-development) - Step By Step Guide To Learn Android App Development.
 - [How to learn Android Development](https://blog.mindorks.com/how-to-learn-android-development-f33dd6dba40d) - A complete guide to learn android app development.
 - [Your Cheat Sheet For Android Interview](https://github.com/MindorksOpenSource/android-interview-questions) - Android Interview Questions.
 - [Become a complete Android developer](https://blog.mindorks.com/how-to-become-a-complete-android-developer-110d7ef91f2a) - How to become a complete Android developer?
 - [Learn Android MVP Architecture](https://mindorks.com/course/android-mvp-introduction) - Android MVP Course. Learn MVP in the simplest way.
 - [Learn RxJava](https://mindorks.com/course/learn-rxjava) - RxJava Tutorials - Learn RxJava By Examples.
 - [I have 1 year of experience in Android. Now What?](https://blog.mindorks.com/i-have-1-year-of-experience-in-android-now-what-52d955b08027) - I have 1 year of experience in Android. Now What?
+- [How to prepare for Android interview?](https://www.youtube.com/watch?v=aVjnX1MIHB8) - How to prepare for Android interview?
+- [MindOrks Youtube Channel](https://www.youtube.com/mindorks) - Learn Android Development
+- [Learn Kotlin](https://medium.com/mindorks/learn-kotlin-kotlin-free-tutorial-7c35647991ee) - Kotlin Free Tutorial
 
 ### Android App Architecture
 - [Android-MVP-Architecture](https://github.com/MindorksOpenSource/android-mvp-architecture) - A complete android project based on MVP architecture.
@@ -25,6 +32,7 @@ A complete reference for android developers. Here you can find references about 
 - [MVVM on Android using RxJava and Data Binding](https://github.com/manas-chaudhari/android-mvvm) - Sample project to demonstrate a coding pattern based on MVVM.
 - [Architecture Components](https://blog.mindorks.com/android-mvp-with-new-architecture-components-7627b7cb8491) - Android MVP with new Architecture Components.
 - [Android Clean Architecture - Kotlin](https://github.com/patrickyin/clean-architecture-android-kotlin) - A base project using the Uncle Bob's clean architecture with Kotlin language and the latest Android technologies.
+- [What are Android Architecture Components?](https://blog.mindorks.com/what-are-android-architecture-components)- What are Android Architecture Components?
 
 ### Third Party Libraries
 
@@ -106,6 +114,10 @@ A complete reference for android developers. Here you can find references about 
 - [New Dagger 2 Android Injector](https://blog.mindorks.com/the-new-dagger-2-android-injector-cbe7d55afa6a) - The New Dagger 2 Android Injector
 - [What are Coroutines in Kotlin?](https://blog.mindorks.com/what-are-coroutines-in-kotlin-bf4fecd476e9) - What are Coroutines in Kotlin?
 - [Implement Pagination In RecyclerView Using RxJava Operators](https://medium.com/mindorks/implement-pagination-in-recyclerview-using-rxjava-operators-686fb202b9dc) - Pagination In RecyclerView
+- [Implement Caching In Android Using RxJava Operators](https://blog.mindorks.com/implement-caching-in-android-using-rxjava-operators) - Caching Using RxJava Operators
+- [Understanding RxJava Timer, Delay, and Interval Operators](https://blog.mindorks.com/understanding-rxjava-timer-delay-and-interval-operators) - Understanding RxJava Timer, Delay, and Interval Operators
+- [Understanding RxJava Defer Operator](https://blog.mindorks.com/understanding-rxjava-defer-operator) - Understanding RxJava Defer Operator
+- [Understanding RxJava Create and fromCallable Operator](https://blog.mindorks.com/understanding-rxjava-create-and-fromcallable-operator) - Understanding RxJava Create and fromCallable Operator
 - [Gradle buildSrcVersions](https://github.com/jmfayard/buildSrcVersions) - Painless Dependencies Management.
 
 ### News And Articles
@@ -119,9 +131,9 @@ A complete reference for android developers. Here you can find references about 
 
 ### Blogs
 
-- [Mindorks Blog](https://mindorks.com/blogs) - Mindorks Blog.
+- [Android MindOrks Blog](https://blog.mindorks.com) - Android Mindorks Blog.
+- [Android MindOrks Medium Blog](https://medium.com/mindorks) - Android MindOrks Medium Blog.
 - [Android Medium Blog](https://medium.com/@amitshekhar) - Android Medium Blog.
-- [Android Mindorks Blog](https://blog.mindorks.com) - Android Mindorks Blog.
 - [Android Developers Blog](http://android-developers.blogspot.in/) - Android Developers Blog.
 - [Official Android Blog](https://android.googleblog.com/) - Official Android Blog.
 
@@ -145,6 +157,7 @@ A complete reference for android developers. Here you can find references about 
 - [RxJava2-Android-Samples](https://github.com/amitshekhariitbhu/RxJava2-Android-Samples) - Learning RxJava for Android by example.
 - [Learning RxJava Subject by example](https://blog.mindorks.com/understanding-rxjava-subject-publish-replay-behavior-and-async-subject-224d663d452f) - Understanding RxJava Subject — Publish, Replay, Behavior and Async Subject.
 - [Implement Search Using RxJava Operators](https://blog.mindorks.com/implement-search-using-rxjava-operators-c8882b64fe1d) - Implement Search Using RxJava Operators - `debounce`, `filter`, `distinctUntilChanged`, `switchMap`.
+- [Video: Implement Search Using RxJava Operators](https://www.youtube.com/watch?v=aDXq1YmZSN4) - Video: Implement Search Using RxJava Operators - `debounce`, `filter`, `distinctUntilChanged`, `switchMap`.
 - [RxJava-Android-Samples](https://github.com/kaushikgopal/RxJava-Android-Samples) - Learning RxJava for Android by example.
 - [Learn Dagger2](https://blog.mindorks.com/a-complete-guide-to-learn-dagger-2-b4c7a570d99c) - A Complete Guide To Learn Dagger 2.
 - [Learn Kotlin](https://blog.mindorks.com/a-complete-guide-to-learn-kotlin-for-android-development-b1e5d23cc2d8) - A Complete Guide To Learn Kotlin.
@@ -169,9 +182,16 @@ A complete reference for android developers. Here you can find references about 
 - [PRDownloader](https://blog.mindorks.com/prdownloader-a-file-downloader-library-for-android-b9c5fc56a640) - A File Downloader Library For Android
 - [Understanding Types Of Observables In RxJava](https://blog.mindorks.com/understanding-types-of-observables-in-rxjava-6c3a2d0819c8) - Understanding Types Of Observables In RxJava
 - [RxJava Operator - Map Vs FlatMap](https://medium.com/mindorks/rxjava-operator-map-vs-flatmap-427c09678784) - RxJava Operator - Map Vs FlatMap
+- [Video: RxJava Operator - Map Vs FlatMap](https://www.youtube.com/watch?v=MEfft76hWPo) - Video: RxJava Operator - Map Vs FlatMap
+- [RxJava Operator - Concat Vs Merge](https://blog.mindorks.com/rxjava-operator-concat-vs-merge) - RxJava Operator - Concat Vs Merge
+- [Understanding RxJava Zip Operator With Example](https://blog.mindorks.com/understanding-rxjava-zip-operator-with-example) - RxJava Operator - Zip
 - [Android App Release Checklist For The Production Launch](https://medium.com/mindorks/android-app-release-checklist-for-the-production-launch-4095f46d04fa) - Checklist For The Production Launch
 - [How to release a bug-free Android App in production?](https://medium.com/mindorks/how-to-release-a-bug-free-android-app-in-production-352fb0371fd8) - How to release a bug-free Android App in production?
 - [Android TensorFlow Lite Machine Learning Example](https://medium.com/mindorks/android-tensorflow-lite-machine-learning-example-b06ca29226b6) - Android TensorFlow Lite Machine Learning Example
+- [Kotlin Lambda, Higher Order Function, Extension Function](https://www.youtube.com/watch?v=eB3lAL8UK9s) - Kotlin Lambda, Higher Order Function, Extension Function
+- [Kotlin Lambda, Higher Order Function - Blog](https://blog.mindorks.com/understanding-higher-order-functions-and-lambdas-in-kotlin) - Kotlin Lambda, Higher Order Function
+- [Understanding inline, noinline, and crossinline in Kotlin](https://blog.mindorks.com/understanding-inline-noinline-and-crossinline-in-kotlin) - Understanding inline, noinline, and crossinline in Kotlin
+- [Mastering Kotlin Coroutines In Android - Step By Step Guide](https://blog.mindorks.com/mastering-kotlin-coroutines-in-android-step-by-step-guide) - Mastering Kotlin Coroutines In Android - Step By Step Guide
 
 ### TODO
 - Updating it on daily basis as much as possible, work in progess[WIP].
