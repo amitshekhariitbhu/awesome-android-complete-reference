@@ -119,6 +119,9 @@ A complete reference for android developers. Here you can find references about 
 - [Understanding RxJava Timer, Delay, and Interval Operators](https://blog.mindorks.com/understanding-rxjava-timer-delay-and-interval-operators) - Understanding RxJava Timer, Delay, and Interval Operators
 - [Understanding RxJava Defer Operator](https://blog.mindorks.com/understanding-rxjava-defer-operator) - Understanding RxJava Defer Operator
 - [Understanding RxJava Create and fromCallable Operator](https://blog.mindorks.com/understanding-rxjava-create-and-fromcallable-operator) - Understanding RxJava Create and fromCallable Operator
+- [Best Practices for Using Text in Android](https://blog.mindorks.com/best-practices-for-using-text-in-android) - Using Text in Android
+- [Convert Kotlin Source file to Java Source file](https://blog.mindorks.com/how-to-convert-a-kotlin-source-file-to-a-java-source-file) - How to convert a Kotlin source file to a Java source file?
+- [What is tools:context in Android layout files?](https://blog.mindorks.com/what-is-tools-context-in-android-layout-files) - What is tools:context in Android layout files ?
 
 ### News And Articles
 
@@ -194,6 +197,9 @@ A complete reference for android developers. Here you can find references about 
 - [Understanding inline, noinline, and crossinline in Kotlin](https://blog.mindorks.com/understanding-inline-noinline-and-crossinline-in-kotlin) - Understanding inline, noinline, and crossinline in Kotlin
 - [Mastering Kotlin Coroutines In Android - Step By Step Guide](https://blog.mindorks.com/mastering-kotlin-coroutines-in-android-step-by-step-guide) - Mastering Kotlin Coroutines In Android - Step By Step Guide
 - [Using Android Sensors: Android Tutorial](https://blog.mindorks.com/using-android-sensors-android-tutorial) - Android Sensors
+- [Kotlin Visibility Modifier](https://blog.mindorks.com/learn-kotlin-visibility-modifiers-private-protected-internal-public) - Learn Kotlin Visibility Modifiers — private, protected, internal, public
+- [Kotlin : Return, Jumps and Labels](https://blog.mindorks.com/learn-kotlin-returns-jumps-labels) - Learn Kotlin : Return, Jump and Labels
+- []
 
 ### TODO
 - Updating it on daily basis as much as possible, work in progess[WIP].
