@@ -136,6 +136,7 @@ A complete reference for android developers. Here you can find references about 
 - [Android Medium Blog](https://medium.com/@amitshekhar) - Android Medium Blog.
 - [Android Developers Blog](http://android-developers.blogspot.in/) - Android Developers Blog.
 - [Official Android Blog](https://android.googleblog.com/) - Official Android Blog.
+- [Vogella Otto Event Bus](https://www.vogella.com/tutorials/JavaLibrary-EventBusOtto/article.html) - Event Bus Library
 
 ### Guides And Tutorials
 
@@ -192,6 +193,7 @@ A complete reference for android developers. Here you can find references about 
 - [Kotlin Lambda, Higher Order Function - Blog](https://blog.mindorks.com/understanding-higher-order-functions-and-lambdas-in-kotlin) - Kotlin Lambda, Higher Order Function
 - [Understanding inline, noinline, and crossinline in Kotlin](https://blog.mindorks.com/understanding-inline-noinline-and-crossinline-in-kotlin) - Understanding inline, noinline, and crossinline in Kotlin
 - [Mastering Kotlin Coroutines In Android - Step By Step Guide](https://blog.mindorks.com/mastering-kotlin-coroutines-in-android-step-by-step-guide) - Mastering Kotlin Coroutines In Android - Step By Step Guide
+- [Using Android Sensors: Android Tutorial](https://blog.mindorks.com/using-android-sensors-android-tutorial) - Android Sensors
 
 ### TODO
 - Updating it on daily basis as much as possible, work in progess[WIP].
