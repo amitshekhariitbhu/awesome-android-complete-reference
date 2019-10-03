@@ -199,7 +199,6 @@ A complete reference for android developers. Here you can find references about 
 - [Using Android Sensors: Android Tutorial](https://blog.mindorks.com/using-android-sensors-android-tutorial) - Android Sensors
 - [Kotlin Visibility Modifier](https://blog.mindorks.com/learn-kotlin-visibility-modifiers-private-protected-internal-public) - Learn Kotlin Visibility Modifiers — private, protected, internal, public
 - [Kotlin : Return, Jumps and Labels](https://blog.mindorks.com/learn-kotlin-returns-jumps-labels) - Learn Kotlin : Return, Jump and Labels
-- []
 
 ### TODO
 - Updating it on daily basis as much as possible, work in progess[WIP].
