@@ -23,6 +23,7 @@ A complete reference for android developers. Here you can find references about 
 - [How to prepare for Android interview?](https://www.youtube.com/watch?v=aVjnX1MIHB8) - How to prepare for Android interview?
 - [MindOrks Youtube Channel](https://www.youtube.com/mindorks) - Learn Android Development
 - [Learn Kotlin](https://medium.com/mindorks/learn-kotlin-kotlin-free-tutorial-7c35647991ee) - Kotlin Free Tutorial
+- [Data Structures for Android Developer](https://blog.mindorks.com/android-developer-should-know-these-data-structures-for-next-interview) - Android Developer should know these Data Structures for Next Interview
 
 ### Android App Architecture
 - [Android-MVP-Architecture](https://github.com/MindorksOpenSource/android-mvp-architecture) - A complete android project based on MVP architecture.
