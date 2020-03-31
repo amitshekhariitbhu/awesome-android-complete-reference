@@ -61,6 +61,8 @@ A complete reference for android developers. Here you can find references about 
 - [Material Design Icons](https://materialdesignicons.com/) - Material Design Icons
 - [Up Labs (Material Up)](https://www.uplabs.com/android) - Up Laps curates the best of Material Design
 - [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/) - A collection of tools to easily generate assets such as launcher icons for your Android app.
+- [Sympli](https://sympli.io/) - Deliver the design, assets and specifications directly into Android Studio. 
+
 
 ### Performance And Optimization
 
