@@ -149,6 +149,7 @@ A complete reference for android developers. Here you can find references about 
 - [Android Tutorial Guide](https://commonsware.com/Android/) - The Busy Coder's Guide to Android Development.
 - [Google Android Sample Codes](https://github.com/googlesamples) - Sample Codes From Google.
 - [Google Code Lab](https://codelabs.developers.google.com/?cat=Android) - Google code lab.
+- [How to Use Environment Variables in Android Applications with Gradle](https://appcircle.io/blog/how-to-use-environment-variables-in-android-applications-with-gradle/) - Guide on using environment variables.
 - [Android Development](https://developer.android.com/index.html) - Android Development complete guide from Google.
 - [Android Guides](https://github.com/codepath/android_guides) - Extensive Open-Source Guides for Android Developers.
 - [Udacity Tutorials - Fundamentals](https://www.udacity.com/course/developing-android-apps--ud853) - Udacity Tutorial covering the core topics of Android Development.
