@@ -201,6 +201,10 @@ A complete reference for android developers. Here you can find references about 
 - [Kotlin Visibility Modifier](https://blog.mindorks.com/learn-kotlin-visibility-modifiers-private-protected-internal-public) - Learn Kotlin Visibility Modifiers — private, protected, internal, public
 - [Kotlin : Return, Jumps and Labels](https://blog.mindorks.com/learn-kotlin-returns-jumps-labels) - Learn Kotlin : Return, Jump and Labels
 
+### Intentionally Developed Vulnerable Applications
+- [Damn Insecure Vulnerable Application (DIVA)](https://github.com/payatu/diva-android)
+- [Vuldroid](https://github.com/jaiswalakshansh/Vuldroid)
+
 ### TODO
 - Updating it on daily basis as much as possible, work in progess[WIP].
 
