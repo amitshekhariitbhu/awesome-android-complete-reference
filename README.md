@@ -141,6 +141,7 @@ A complete reference for android developers. Here you can find references about 
 - [Android Developers Blog](http://android-developers.blogspot.in/) - Android Developers Blog.
 - [Official Android Blog](https://android.googleblog.com/) - Official Android Blog.
 - [Vogella Otto Event Bus](https://www.vogella.com/tutorials/JavaLibrary-EventBusOtto/article.html) - Event Bus Library
+- [Android Developers Medium Blog](https://medium.com/androiddevelopers) - Latest android posts
 
 ### Guides And Tutorials
 
