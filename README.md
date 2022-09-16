@@ -8,6 +8,7 @@ A curated list of Android Complete References at one place.
 A complete reference for android developers. Here you can find references about everything you use while Android Development.
 
 ### Learn Android Development
+- [My Personal Blog - amitshekhar.me](https://amitshekhar.me/blog) - High-quality content to learn concepts.
 - [MindOrks Android Online Course For Professional](https://bootcamp.mindorks.com) - Android Online Course for Professional.
 - [MindOrks Android Online Course For Beginners](https://bootcamp.mindorks.com/android-training-for-beginners) - Android Online Course for Beginners.
 - [Learning Android Development - A Practical Guide](https://medium.com/mindorks/learning-android-development-in-2019-a-practical-guide-ddc71e008696) - Learning Android Development - A Practical Guide.
@@ -144,6 +145,9 @@ A complete reference for android developers. Here you can find references about 
 
 ### Guides And Tutorials
 
+- [Remove duplicates from an array](https://amitshekhar.me/blog/remove-duplicates-from-an-array-in-kotlin) - Remove duplicates from an array in Kotlin
+- [Caching in Android](https://amitshekhar.me/blog/caching-with-okhttp-interceptor-and-retrofit) - Caching with OkHttp Interceptor and Retrofit
+- [Why is it recommended to use only the default constructor to create a Fragment?](https://amitshekhar.me/blog/default-constructor-to-create-a-fragment) - Why is it recommended to use only the default constructor to create a Fragment? 
 - [CodePath Android](http://guides.codepath.com/android) - The Complete tutorial for Android Developement with examples.
 - [Android Examples Codes](https://github.com/commonsguy/cw-omnibus) - The reference for Android Examples Codes.
 - [Android Tutorial Guide](https://commonsware.com/Android/) - The Busy Coder's Guide to Android Development.
