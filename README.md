@@ -14,6 +14,7 @@ A complete reference for android developers. Here you can find references about 
 - [Remove duplicates from an array](https://amitshekhar.me/blog/remove-duplicates-from-an-array-in-kotlin) - Remove duplicates from an array in Kotlin
 - [Why is it recommended to use only the default constructor to create a Fragment?](https://amitshekhar.me/blog/default-constructor-to-create-a-fragment) - Why is it recommended to use only the default constructor to create a Fragment? 
 - [AssociateBy - List to Map in Kotlin](https://amitshekhar.me/blog/associateby-list-to-map-in-kotlin) - Kotlin Collection Functions - associateBy that converts a list into a map
+- [partition - filtering function in Kotlin](https://amitshekhar.me/blog/partition-filtering-function-in-kotlin) - partition - filtering function in Kotlin
 
 ### Learn Android Development
 - [My Personal Blog - amitshekhar.me](https://amitshekhar.me/blog) - High-quality content to learn concepts.
