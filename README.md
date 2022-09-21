@@ -10,6 +10,7 @@ A complete reference for android developers. Here you can find references about 
 ### Latest Blog Posts
 - [Why does an Android App lag?](https://amitshekhar.me/blog/android-app-lag) - Learn why an Android App lags
 - [Caching in Android](https://amitshekhar.me/blog/caching-with-okhttp-interceptor-and-retrofit) - Caching with OkHttp Interceptor and Retrofit
+- [How does the Android Image Loading library solve the slow loading issue?](https://amitshekhar.me/blog/android-image-loading-library-solve-the-slow-loading-issue) - How does the Android Image Loading library solve the slow loading issue?
 - [HTTP Request vs HTTP Long-Polling vs WebSocket vs Server-Sent Events](https://amitshekhar.me/blog/http-request-long-polling-websocket-sse) - HTTP Request vs HTTP Long-Polling vs WebSocket vs Server-Sent Events
 - [Remove duplicates from an array](https://amitshekhar.me/blog/remove-duplicates-from-an-array-in-kotlin) - Remove duplicates from an array in Kotlin
 - [Why is it recommended to use only the default constructor to create a Fragment?](https://amitshekhar.me/blog/default-constructor-to-create-a-fragment) - Why is it recommended to use only the default constructor to create a Fragment? 
