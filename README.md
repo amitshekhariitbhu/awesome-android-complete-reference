@@ -29,6 +29,7 @@ I only create knowledge-packed content so that you get to learn about the follow
 - [AssociateBy - List to Map in Kotlin](https://amitshekhar.me/blog/associateby-list-to-map-in-kotlin) - Kotlin Collection Functions - associateBy that converts a list into a map
 - [partition - filtering function in Kotlin](https://amitshekhar.me/blog/partition-filtering-function-in-kotlin) - partition - filtering function in Kotlin
 - [Avoid nesting by handling errors first](https://amitshekhar.me/blog/avoid-nesting-by-handling-errors-first) - Avoid nesting by handling errors first
+- [Infix notation in Kotlin](https://amitshekhar.me/blog/infix-notation-in-kotlin) - Infix notation in Kotlin
 
 Thanks
 
