@@ -31,6 +31,7 @@ I only create knowledge-packed content so that you get to learn about the follow
 - [Avoid nesting by handling errors first](https://amitshekhar.me/blog/avoid-nesting-by-handling-errors-first) - Avoid nesting by handling errors first
 - [Infix notation in Kotlin](https://amitshekhar.me/blog/infix-notation-in-kotlin) - Infix notation in Kotlin
 - [Open keyword in Kotlin](https://amitshekhar.me/blog/open-keyword-in-kotlin) - Open keyword in Kotlin
+- [Companion object in Kotlin](https://amitshekhar.me/blog/companion-object-in-kotlin) - Companion object in Kotlin
 
 Thanks
 
