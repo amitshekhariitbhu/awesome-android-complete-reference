@@ -37,6 +37,8 @@ I only create knowledge-packed content so that you get to learn about the follow
 - [Infix notation in Kotlin](https://amitshekhar.me/blog/infix-notation-in-kotlin) - Infix notation in Kotlin
 - [Open keyword in Kotlin](https://amitshekhar.me/blog/open-keyword-in-kotlin) - Open keyword in Kotlin
 - [Companion object in Kotlin](https://amitshekhar.me/blog/companion-object-in-kotlin) - Companion object in Kotlin
+- [Use setRecycledViewPool for Optimizing Nested RecyclerView](https://amitshekhar.me/blog/setrecycledviewpool-for-optimizing-nested-recyclerview) - Use setRecycledViewPool for Optimizing Nested RecyclerView
+- [singleTask launchMode in Android](https://amitshekhar.me/blog/singletask-launchmode-in-android) - singleTask launchMode in Android
 
 Thanks
 
