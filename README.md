@@ -24,6 +24,9 @@ I only create knowledge-packed content so that you get to learn about the follow
 - [JvmStatic Annotation in Kotlin](https://amitshekhar.me/blog/jvmstatic-annotation-in-kotlin) - JvmStatic Annotation in Kotlin
 - [JvmOverloads Annotation in Kotlin](https://amitshekhar.me/blog/jvmoverloads-annotation-in-kotlin) - JvmOverloads Annotation in Kotlin
 - [JvmField Annotation in Kotlin](https://amitshekhar.me/blog/jvmfield-annotation-in-kotlin) - JvmField Annotation in Kotlin
+- [inline function in Kotlin](https://amitshekhar.me/blog/inline-function-in-kotlin) - inline function in Kotlin
+- [noinline in Kotlin](https://amitshekhar.me/blog/noinline-in-kotlin) - noinline in Kotlin
+- [crossinline in Kotlin](https://amitshekhar.me/blog/crossinline-in-kotlin) - crossinline in Kotlin
 - [lateinit vs lazy in Kotlin](https://amitshekhar.me/blog/lateinit-vs-lazy-in-kotlin) - lateinit vs lazy in Kotlin
 - [init block in Kotlin](https://amitshekhar.me/blog/init-block-in-kotlin) - init block in Kotlin
 - [Advantage of using const in Kotlin](https://amitshekhar.me/blog/const-in-kotlin) - Advantage of using const in Kotlin
