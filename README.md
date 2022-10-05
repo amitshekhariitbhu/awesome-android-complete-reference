@@ -18,6 +18,7 @@ I only create knowledge-packed content so that you get to learn about the follow
 - [How does the Android Image Loading library solve the slow loading issue?](https://amitshekhar.me/blog/android-image-loading-library-solve-the-slow-loading-issue) - How does the Android Image Loading library solve the slow loading issue?
 - [How does the Android Image Loading library optimize memory usage?](https://amitshekhar.me/blog/android-image-loading-library-optimize-memory-usage) - How does the Android Image Loading library optimize memory usage?
 - [Dispatchers in Kotlin Coroutines](https://amitshekhar.me/blog/dispatchers-in-kotlin-coroutines) - Dispatchers in Kotlin Coroutines
+- [coroutineScope vs supervisorScope](https://amitshekhar.me/blog/coroutinescope-vs-supervisorscope) - coroutineScope vs supervisorScope
 - [HTTP Request vs HTTP Long-Polling vs WebSocket vs Server-Sent Events](https://amitshekhar.me/blog/http-request-long-polling-websocket-sse) - HTTP Request vs HTTP Long-Polling vs WebSocket vs Server-Sent Events
 - [What is Flow API in Kotlin?](https://amitshekhar.me/blog/flow-api-in-kotlin) - What is Flow API in Kotlin?
 - [Remove duplicates from an array](https://amitshekhar.me/blog/remove-duplicates-from-an-array-in-kotlin) - Remove duplicates from an array in Kotlin
