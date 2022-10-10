@@ -47,6 +47,7 @@ I only create knowledge-packed content so that you get to learn about the follow
 - [dispose vs clear](https://amitshekhar.me/blog/dispose-vs-clear-compositedisposable-rxjava) - dispose vs clear CompositeDisposable RxJava
 - [RxJava Interval Operator](https://amitshekhar.me/blog/rxjava-interval-operator) - RxJava Interval Operator
 - [RxJava Concat Operator](https://amitshekhar.me/blog/rxjava-concat-operator) - RxJava Concat Operator
+- [RxJava Merge Operator](https://amitshekhar.me/blog/rxjava-merge-operator) - RxJava Merge Operator
 
 Thanks
 
