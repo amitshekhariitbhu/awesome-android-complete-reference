@@ -48,6 +48,7 @@ I only create knowledge-packed content so that you get to learn about the follow
 - [RxJava Interval Operator](https://amitshekhar.me/blog/rxjava-interval-operator) - RxJava Interval Operator
 - [RxJava Concat Operator](https://amitshekhar.me/blog/rxjava-concat-operator) - RxJava Concat Operator
 - [RxJava Merge Operator](https://amitshekhar.me/blog/rxjava-merge-operator) - RxJava Merge Operator
+- [RxJava Operator Map vs FlatMap](https://amitshekhar.me/blog/rxjava-map-vs-flatmap) - RxJava Operator Map vs FlatMap
 
 Thanks
 
