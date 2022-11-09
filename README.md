@@ -48,6 +48,7 @@ I only create knowledge-packed content so that you get to learn about the follow
 - [Companion object in Kotlin](https://amitshekhar.me/blog/companion-object-in-kotlin) - Companion object in Kotlin
 - [Use setRecycledViewPool for Optimizing Nested RecyclerView](https://amitshekhar.me/blog/setrecycledviewpool-for-optimizing-nested-recyclerview) - Use setRecycledViewPool for Optimizing Nested RecyclerView
 - [singleTask launchMode in Android](https://amitshekhar.me/blog/singletask-launchmode-in-android) - singleTask launchMode in Android
+- [RxJava Subject - Publish, Replay, Behavior, and Async](https://amitshekhar.me/blog/rxjava-subject-publish-replay-behavior-async) - RxJava Subject - Publish, Replay, Behavior, and Async
 - [dispose vs clear](https://amitshekhar.me/blog/dispose-vs-clear-compositedisposable-rxjava) - dispose vs clear CompositeDisposable RxJava
 - [RxJava Interval Operator](https://amitshekhar.me/blog/rxjava-interval-operator) - RxJava Interval Operator
 - [RxJava Concat Operator](https://amitshekhar.me/blog/rxjava-concat-operator) - RxJava Concat Operator
