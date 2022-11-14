@@ -55,6 +55,7 @@ I only create knowledge-packed content so that you get to learn about the follow
 - [RxJava Merge Operator](https://amitshekhar.me/blog/rxjava-merge-operator) - RxJava Merge Operator
 - [RxJava Operator Map vs FlatMap](https://amitshekhar.me/blog/rxjava-map-vs-flatmap) - RxJava Operator Map vs FlatMap
 - [Pagination In RecyclerView Using RxJava Operators](https://amitshekhar.me/blog/pagination-in-recyclerview-using-rxjava-operators) - Pagination In RecyclerView Using RxJava Operators
+- [How does the Kotlin Multiplatform work?](https://amitshekhar.me/blog/how-does-the-kotlin-multiplatform-work) - How does the Kotlin Multiplatform work?
 
 Thanks
 
