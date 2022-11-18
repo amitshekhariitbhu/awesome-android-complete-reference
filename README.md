@@ -22,6 +22,7 @@ I only create knowledge-packed content so that you get to learn about the follow
 - [Dispatchers in Kotlin Coroutines](https://amitshekhar.me/blog/dispatchers-in-kotlin-coroutines) - Dispatchers in Kotlin Coroutines
 - [coroutineScope vs supervisorScope](https://amitshekhar.me/blog/coroutinescope-vs-supervisorscope) - coroutineScope vs supervisorScope
 - [HTTP Request vs HTTP Long-Polling vs WebSocket vs Server-Sent Events](https://amitshekhar.me/blog/http-request-long-polling-websocket-sse) - HTTP Request vs HTTP Long-Polling vs WebSocket vs Server-Sent Events
+- [Context In Android Application](https://amitshekhar.me/blog/context-in-android-application) - Context In Android Application
 - [What is Flow API in Kotlin?](https://amitshekhar.me/blog/flow-api-in-kotlin) - What is Flow API in Kotlin?
 - [Long-running tasks in parallel with Kotlin Flow](https://amitshekhar.me/blog/long-running-tasks-in-parallel-with-kotlin-flow) - Long-running tasks in parallel with Kotlin Flow
 - [Retry Operator in Kotlin Flow](https://amitshekhar.me/blog/retry-operator-in-kotlin-flow) - Retry Operator in Kotlin Flow
@@ -60,6 +61,9 @@ I only create knowledge-packed content so that you get to learn about the follow
 - [RxJava Operator Map vs FlatMap](https://amitshekhar.me/blog/rxjava-map-vs-flatmap) - RxJava Operator Map vs FlatMap
 - [Pagination In RecyclerView Using RxJava Operators](https://amitshekhar.me/blog/pagination-in-recyclerview-using-rxjava-operators) - Pagination In RecyclerView Using RxJava Operators
 - [How does the Kotlin Multiplatform work?](https://amitshekhar.me/blog/how-does-the-kotlin-multiplatform-work) - How does the Kotlin Multiplatform work?
+- [RxJava Zip Operator](https://amitshekhar.me/blog/rxjava-zip-operator) - RxJava Zip Operator
+- [RecyclerView Optimization](https://amitshekhar.me/blog/recyclerview-optimization) - RecyclerView Optimization - Scrolling Performance Improvement
+- [Android Developer should know these Data Structures for Next Interview](https://amitshekhar.me/blog/android-developer-should-know-these-data-structures-for-next-interview) - Android Developer should know these Data Structures for Next Interview
 
 Thanks
 
