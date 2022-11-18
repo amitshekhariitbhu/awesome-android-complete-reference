@@ -42,6 +42,7 @@ I only create knowledge-packed content so that you get to learn about the follow
 - [suspend function in Kotlin Coroutines](https://amitshekhar.me/blog/suspend-function-in-kotlin-coroutines) - suspend function in Kotlin Coroutines
 - [Higher-Order Functions and Lambdas in Kotlin](https://amitshekhar.me/blog/higher-order-functions-and-lambdas-in-kotlin) - Higher-Order Functions and Lambdas in Kotlin
 - [Parallel Multiple Network Calls Using Kotlin Coroutines](https://amitshekhar.me/blog/parallel-multiple-network-calls-using-kotlin-coroutines) - Parallel Multiple Network Calls Using Kotlin Coroutines
+- [MVVM Architecture - Android Tutorial for Beginners](https://amitshekhar.me/blog/mvvm-architecture-android) - MVVM Architecture - Android Tutorial for Beginners
 - [Why is it recommended to use only the default constructor to create a Fragment?](https://amitshekhar.me/blog/default-constructor-to-create-a-fragment) - Why is it recommended to use only the default constructor to create a Fragment? 
 - [AssociateBy - List to Map in Kotlin](https://amitshekhar.me/blog/associateby-list-to-map-in-kotlin) - Kotlin Collection Functions - associateBy that converts a list into a map
 - [partition - filtering function in Kotlin](https://amitshekhar.me/blog/partition-filtering-function-in-kotlin) - partition - filtering function in Kotlin
