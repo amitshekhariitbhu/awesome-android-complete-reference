@@ -81,6 +81,8 @@ I only create knowledge-packed content so that you get to learn about the follow
 - [Instant Search Using RxJava Operators](https://amitshekhar.me/blog/instant-search-using-rxjava-operators) - Instant Search Using RxJava Operators
 - [Jetpack DataStore Preferences](https://amitshekhar.me/blog/jetpack-datastore-preferences) - Jetpack DataStore Preferences
 - [Optimization Using ArrayMap and SparseArray](https://amitshekhar.me/blog/optimization-using-arraymap-and-sparsearray) - Optimization Using ArrayMap and SparseArray
+- [StrictMode in Android Development](https://amitshekhar.me/blog/strictmode-in-android-development) - StrictMode in Android Development
+- [Android Development Best Practices](https://amitshekhar.me/blog/android-development-best-practices) - Android Development Best Practices
 
 Thanks
 
