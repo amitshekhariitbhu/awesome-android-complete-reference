@@ -78,6 +78,9 @@ I only create knowledge-packed content so that you get to learn about the follow
 - [ThreadPoolExecutor in Android](https://amitshekhar.me/blog/threadpoolexecutor-in-android) - ThreadPoolExecutor in Android
 - [Creating Custom Annotations](https://amitshekhar.me/blog/creating-custom-annotations) - Creating Custom Annotations
 - [App Startup Library](https://amitshekhar.me/blog/app-startup-library) - App Startup Library
+- [Instant Search Using RxJava Operators](https://amitshekhar.me/blog/instant-search-using-rxjava-operators) - Instant Search Using RxJava Operators
+- [Jetpack DataStore Preferences](https://amitshekhar.me/blog/jetpack-datastore-preferences) - Jetpack DataStore Preferences
+- [Optimization Using ArrayMap and SparseArray](https://amitshekhar.me/blog/optimization-using-arraymap-and-sparsearray) - Optimization Using ArrayMap and SparseArray
 
 Thanks
 
