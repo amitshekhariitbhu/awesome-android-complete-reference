@@ -83,6 +83,9 @@ I only create knowledge-packed content so that you get to learn about the follow
 - [Optimization Using ArrayMap and SparseArray](https://amitshekhar.me/blog/optimization-using-arraymap-and-sparsearray) - Optimization Using ArrayMap and SparseArray
 - [StrictMode in Android Development](https://amitshekhar.me/blog/strictmode-in-android-development) - StrictMode in Android Development
 - [Android Development Best Practices](https://amitshekhar.me/blog/android-development-best-practices) - Android Development Best Practices
+- [SnapHelper](https://amitshekhar.me/blog/snaphelper) - SnapHelper
+- [Android NDK and RenderScript](https://amitshekhar.me/blog/ndk-and-renderscript) - Android NDK and RenderScript
+- [Android App Performance Metrics](https://amitshekhar.me/blog/android-app-performance-metrics) - Android App Performance Metrics
 
 Thanks
 
