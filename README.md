@@ -89,6 +89,7 @@ I only create knowledge-packed content so that you get to learn about the follow
 - [SnapHelper](https://amitshekhar.me/blog/snaphelper) - SnapHelper
 - [Android NDK and RenderScript](https://amitshekhar.me/blog/ndk-and-renderscript) - Android NDK and RenderScript
 - [Android App Performance Metrics](https://amitshekhar.me/blog/android-app-performance-metrics) - Android App Performance Metrics
+- [Difference between == and === in Kotlin](https://amitshekhar.me/blog/structural-and-referential-equality-in-kotlin) - Difference between == and === in Kotlin
 
 Thanks
 
