@@ -19,6 +19,7 @@ I only create knowledge-packed content so that you get to learn about the follow
 - [How does the Android Image Loading library use the bitmap pool for responsive UI?](https://amitshekhar.me/blog/android-image-loading-library-use-bitmap-pool-for-responsive-ui) - How does the Android Image Loading library use the bitmap pool for responsive UI?
 - [How does the Android Image Loading library solve the slow loading issue?](https://amitshekhar.me/blog/android-image-loading-library-solve-the-slow-loading-issue) - How does the Android Image Loading library solve the slow loading issue?
 - [How does the Android Image Loading library optimize memory usage?](https://amitshekhar.me/blog/android-image-loading-library-optimize-memory-usage) - How does the Android Image Loading library optimize memory usage?
+- [Dalvik, ART, JIT, and AOT in Android](https://amitshekhar.me/blog/dalvik-art-jit-aot) - Dalvik, ART, JIT, and AOT in Android
 - [Dispatchers in Kotlin Coroutines](https://amitshekhar.me/blog/dispatchers-in-kotlin-coroutines) - Dispatchers in Kotlin Coroutines
 - [coroutineScope vs supervisorScope](https://amitshekhar.me/blog/coroutinescope-vs-supervisorscope) - coroutineScope vs supervisorScope
 - [What is Flow API in Kotlin?](https://amitshekhar.me/blog/flow-api-in-kotlin) - What is Flow API in Kotlin?
