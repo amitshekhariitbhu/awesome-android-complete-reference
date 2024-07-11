@@ -95,6 +95,7 @@ I only create knowledge-packed content so that you get to learn about the follow
 - [Android App Performance Metrics](https://outcomeschool.com/blog/android-app-performance-metrics) - Android App Performance Metrics
 - [Difference between == and === in Kotlin](https://outcomeschool.com/blog/structural-and-referential-equality-in-kotlin) - Difference between == and === in Kotlin
 - [React Native vs Flutter](https://outcomeschool.com/blog/react-native-vs-flutter) - React Native vs Flutter
+- [Database Normalization vs Denormalization](https://outcomeschool.com/blog/database-normalization-vs-denormalization) - Database Normalization vs Denormalization
 
 
 Thanks
