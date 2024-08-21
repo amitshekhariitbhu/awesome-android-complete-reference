@@ -97,6 +97,7 @@ I only create knowledge-packed content so that you get to learn about the follow
 - [React Native vs Flutter](https://outcomeschool.com/blog/react-native-vs-flutter) - React Native vs Flutter
 - [Database Normalization vs Denormalization](https://outcomeschool.com/blog/database-normalization-vs-denormalization) - Database Normalization vs Denormalization
 - [Extension function in Kotlin](https://outcomeschool.com/blog/extension-function-in-kotlin) - Extension function in Kotlin
+- [data class in Kotlin](https://outcomeschool.com/blog/data-class-in-kotlin) - data class in Kotlin
 
 
 Thanks
