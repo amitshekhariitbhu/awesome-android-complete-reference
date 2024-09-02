@@ -99,6 +99,7 @@ I only create knowledge-packed content so that you get to learn about the follow
 - [Extension function in Kotlin](https://outcomeschool.com/blog/extension-function-in-kotlin) - Extension function in Kotlin
 - [data class in Kotlin](https://outcomeschool.com/blog/data-class-in-kotlin) - data class in Kotlin
 - [String vs StringBuffer vs StringBuilder](https://outcomeschool.com/blog/string-vs-stringbuffer-vs-stringbuilder) - String vs StringBuffer vs StringBuilder
+- [Parcelable vs Serializable](https://outcomeschool.com/blog/parcelable-vs-serializable) - Parcelable vs Serializable
 
 
 Thanks
