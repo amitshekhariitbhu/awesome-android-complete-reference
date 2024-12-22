@@ -14,6 +14,7 @@ I only create knowledge-packed content so that you get to learn about the follow
 
 - [Mastering Kotlin Coroutines](https://outcomeschool.com/blog/kotlin-coroutines) - Mastering Kotlin Coroutines
 - [Why does an Android App lag?](https://outcomeschool.com/blog/android-app-lag) - Learn why an Android App lags
+- [Android System Design Interviews](https://outcomeschool.com/blog/android-system-design-interviews) - Android System Design Interviews
 - [OkHttp Interceptor](https://outcomeschool.com/blog/okhttp-interceptor) - OkHttp Interceptor
 - [Caching in Android](https://outcomeschool.com/blog/caching-with-okhttp-interceptor-and-retrofit) - Caching with OkHttp Interceptor and Retrofit
 - [How does the Android Image Loading library use the bitmap pool for responsive UI?](https://outcomeschool.com/blog/android-image-loading-library-use-bitmap-pool-for-responsive-ui) - How does the Android Image Loading library use the bitmap pool for responsive UI?
